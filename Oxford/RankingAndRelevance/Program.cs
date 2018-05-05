@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.IO;
 
 namespace RankingAndRelevance
@@ -7,6 +8,7 @@ namespace RankingAndRelevance
     {
         static void Main()
         {
+            DateTime dt = DateTime.Now;
             List<Patient> patients = ReadPatients("Files\\Patient.tsv");
             List<Member> members = ReadMembers("Files\\Member.tsv");
             List<PlaceOfService> placeOfServices = ReadPlaceOfService("Files\\PlaceOfService.tsv");
@@ -14,7 +16,40 @@ namespace RankingAndRelevance
             //http://ec2-52-14-191-192.us-east-2.compute.amazonaws.com:1234/ 
             //https://arxiv.org/abs/1804.01486 
             //This tab displays an interactive t-sne visualization of all 108,477 concepts. 
-            //List<CuiVector> providers = ReadProviders("Files\\cui2vec_pretrained.csv");
+            List<CuiVector> Cuis = ReadCuiVector("Files\\cui2vec_pretrained.csv");
+            DateTime dt2 = DateTime.Now;
+            TimeSpan duration = dt2.Subtract(dt);
+            Console.WriteLine("Seconds: " + duration.TotalSeconds);
+        }
+
+        private static List<CuiVector> ReadCuiVector(string path)
+        {
+            List <CuiVector> cuiVectors = new List<CuiVector>();
+            int lineCounter = 0;
+            foreach (string line in File.ReadLines(path))
+            {
+                if (lineCounter == 0)
+                {
+                    lineCounter++;
+                    continue; //skip header
+                }
+                string[] values = line.Split(',');
+                CuiVector cui = new CuiVector();
+                for (int i = 0; i < values.Length; i++)
+                {
+                    string value = values[i].Trim('\"');
+                    //Trim values
+                    if (i == 0)
+                    {
+                        cui.Cui = value;
+                        continue;
+                    }
+                    cui.Vector.Add(double.Parse(value));
+                }
+
+                cuiVectors.Add(cui);
+            }
+            return cuiVectors;
         }
 
         public static List<PlaceOfService> ReadPlaceOfService(string path)

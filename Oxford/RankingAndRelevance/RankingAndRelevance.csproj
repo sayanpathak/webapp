@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Member.cs" />
+    <Compile Include="CuiVector.cs" />
     <Compile Include="PlaceOfService.cs" />
     <Compile Include="Provider.cs" />
     <Compile Include="Patient.cs" />
