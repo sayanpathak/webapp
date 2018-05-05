@@ -19,7 +19,17 @@ namespace RankingAndRelevance
             List<CuiVector> Cuis = ReadCuiVector("Files\\cui2vec_pretrained.csv");
             DateTime dt2 = DateTime.Now;
             TimeSpan duration = dt2.Subtract(dt);
-            Console.WriteLine("Seconds: " + duration.TotalSeconds);
+            Console.WriteLine("Seconds to load: " + duration.TotalSeconds);
+
+            string cuiInput =
+                @"{ ""entities"": [{ ""surface_form"": ""Vitrectomy"",""cui"": ""C0042903""}, { ""surface_form"": ""Scleral Buckling"", ""cui"": ""C0036411""}]}";
+            //string cuiInput = @"{ ""entities"": [ { ""Vitrectomy"": ""C0042903""},{ ""Scleral Buckling"": ""C0036411""}]}";
+            CuiEntities cuiEntities = CuiEntities.ReadToObject(cuiInput);
+            foreach (var cuiEntitiesEntity in cuiEntities.entities)
+            {
+                string cui = cuiEntitiesEntity.cui;
+                string surfaceForm = cuiEntitiesEntity.surface_form;
+            }
         }
 
         private static List<CuiVector> ReadCuiVector(string path)
