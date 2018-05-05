@@ -1,0 +1,71 @@
+PLACE_OF_SERVICE_KEY	SERVICE_PLACE_CD	SERVICE_PLACE_DS	PLACE_OF_SERVICE_EFF_DT	PLACE_OF_SERVICE_EXP_DT	DW_PROCESS_ID	DW_TIMESTAMP
+1	1	Inpatient Hospital	1/1/2009			
+2	2	Outpatient Hospital	1/1/2009			
+3	3	Military Treatment Facility	1/1/2009			
+4	4	Skilled Nursing Facility	1/1/2009			
+5	5	Federally Qualified Health Center	1/1/2009			
+6	6	Inpatient Psychiartic Facility	1/1/2009			
+7	7	Psychiartic Facility Partial Hospitalization	1/1/2009			
+8	8	Residential Substance Abuse Treatment Center	1/1/2009			
+9	9	Psychiartic Residential Treatment Center	1/1/2009			
+10	10	Mass Immunization Center 	1/1/2009			
+11	11	Office	1/1/2009			
+12	12	Home	1/1/2009			
+13	13	Other Unlisted Facility	1/1/2009			
+14	14	OP REHAB FACILITY	1/1/2009			
+15	15	Mobile diagnostic unit	1/1/2009			
+16	16	Patient Residence	1/1/2009			
+17	17	Outpatient Substance Abuse Treatment Center	1/1/2009			
+18	18	VA Hospital	1/1/2009			
+19	19	Home	1/1/2009			
+20	AN	Antenatal/Pregnancy Comp	1/1/2009			
+21	CD	Chemical Dependence	1/1/2009			
+22	CE	Custom Equipment	1/1/2009			
+23	DB	Detained Baby	1/1/2009			
+24	DM	Equipment and Supplies	1/1/2009			
+25	DT	Diagnostic Testing	1/1/2009			
+26	H	Hospice	1/1/2009			
+27	IM	Imaging	1/1/2009			
+28	M	Medical	1/1/2009			
+29	N	Neonatal	1/1/2009			
+30	O	Obstetrics	1/1/2009			
+31	P	Psychiatric	1/1/2009			
+32	R	Therapies	1/1/2009			
+33	RE	Rehab	1/1/2009			
+34	S	Surgical	1/1/2009			
+35	T	Transplant	1/1/2009			
+36	NB	Newborn	1/1/2009			
+37	CS	C Section Delivery	1/1/2009			
+38	V	Vaginal Delivery	1/1/2009			
+39	CH	Chiro	1/1/2009			
+40	PM	Pediatric Medical	1/1/2009			
+41	PS	Pediatric Surgical	1/1/2009			
+42	SN	Skilled Nursing Facility	1/1/2009			
+43	TR	Transportation	1/1/2009			
+44	Code	Description	1/1/2009			
+45	20	Urgent care facility	1/1/2009			
+46	21	Inpatient hospital	1/1/2009			
+47	22	Outpatient hospital	1/1/2009			
+48	23	Emergency room hospital	1/1/2009			
+49	24	Ambulatory surgical center	1/1/2009			
+50	25	Birthing center	1/1/2009			
+51	26	Military treatment facility	1/1/2009			
+52	31	Skilled nursing facility	1/1/2009			
+53	32	Nursing facility	1/1/2009			
+54	33	Custodial care	1/1/2009			
+55	34	Hospice	1/1/2009			
+56	41	Ambulance � land	1/1/2009			
+57	42	Ambulance � air or water	1/1/2009			
+58	51	Inpatient psychiatric facility	1/1/2009			
+59	52	Psychiatric facility partial hospitalization	1/1/2009			
+60	53	Community mental health center	1/1/2009			
+61	54	Intermediate care facility/mentally retarded	1/1/2009			
+62	55	Residential substance abuse	1/1/2009			
+63	56	Psychiatric residential treatment center	1/1/2009			
+64	61	Comprehensive inpatient rehabilitation facility	1/1/2009			
+65	62	Comprehensive outpatient rehabilitation facility	1/1/2009			
+66	65	End-stage renal disease facility	1/1/2009			
+67	71	State or local public health clinic	1/1/2009			
+68	72	Rural health clinic	1/1/2009			
+69	81	Independent lab	1/1/2009			
+70	99	Other unlisted facility	1/1/2009			

@@ -1,0 +1,281 @@
+PatientRelCode	PatientLast 	PatientFirst	PatientMiddle	PatientDOB	PatientSex	PatientMaritalStatus	PatientAddressLine1	PatientAddressLine2	PatientCity	PatientState	PatientZip	Keywords
+19	Patient Last Name 1	Patient First Name 1	Patient Middle Name 1	10/4/2001	F	M			Anoka	MN	55303	eye,surgery
+19	Patient Last Name 2	Patient First Name 2	Patient Middle Name 2	3/11/2015	F	M			Bethel	MN	55005	eye,surgery
+19	Patient Last Name 3	Patient First Name 3	Patient Middle Name 3	5/21/2002	M	M			Circle Pines	MN	55014	eye,surgery
+18	Patient Last Name 4	Patient First Name 4	Patient Middle Name 4	10/19/1971	F	S			Center City	MN	55012	eye,surgery
+18	Patient Last Name 5	Patient First Name 5	Patient Middle Name 5	6/4/2015	F	S			Chisago City	MN	55013	eye,surgery
+18	Patient Last Name 6	Patient First Name 6	Patient Middle Name 6	4/26/1989	F	M			Taylors Falls	MN	55084	eye,surgery
+18	Patient Last Name 7	Patient First Name 7	Patient Middle Name 7	5/2/1988	F	M			Burnsville	MN	55306	eye,surgery
+18	Patient Last Name 8	Patient First Name 8	Patient Middle Name 8	1/14/1989	F	S			Inver Grove Heights	MN	55077	eye,surgery
+18	Patient Last Name 9	Patient First Name 9	Patient Middle Name 9	10/30/1989	F	S			Lakeville	MN	55044	eye,surgery
+19	Patient Last Name 10	Patient First Name 10	Patient Middle Name 10	8/10/2015	F	M			Champlin	MN	55316	eye,surgery
+18	Patient Last Name 11	Patient First Name 11	Patient Middle Name 11	3/29/1956	M	M			Eden Prairie	MN	55344	eye,surgery
+18	Patient Last Name 12	Patient First Name 12	Patient Middle Name 12	9/22/1976	M	M			Hopkins	MN	55305	eye,surgery
+19	Patient Last Name 13	Patient First Name 13	Patient Middle Name 13	7/30/2016	F	M			Minneapolis	MN	55401	eye,surgery
+18	Patient Last Name 14	Patient First Name 14	Patient Middle Name 14	11/2/1983	F	S			Minneapolis	MN	55414	eye,surgery
+18	Patient Last Name 15	Patient First Name 15	Patient Middle Name 15	4/28/1949	F	S			Minneapolis	MN	55415	eye,surgery
+18	Patient Last Name 16	Patient First Name 16	Patient Middle Name 16	9/25/1989	F	M			Minneapolis	MN	55435	eye,surgery
+18	Patient Last Name 17	Patient First Name 17	Patient Middle Name 17	11/8/1978	F	M			Saint Paul	MN	55101	eye,surgery
+18	Patient Last Name 18	Patient First Name 18	Patient Middle Name 18	6/15/1988	F	S			Saint Paul	MN	55117	eye,surgery
+18	Patient Last Name 19	Patient First Name 19	Patient Middle Name 19	12/24/1972	F	S			Saint Paul	MN	55126	eye,surgery
+18	Patient Last Name 20	Patient First Name 20	Patient Middle Name 20	4/14/1943	F	M			Elk River	MN	55330	eye,surgery
+18	Patient Last Name 21	Patient First Name 21	Patient Middle Name 21	2/7/1976	F	M			Zimmerman	MN	55398	eye,surgery
+18	Patient Last Name 22	Patient First Name 22	Patient Middle Name 22	5/24/1964	F	M			Saint Cloud	MN	56301	eye,surgery
+18	Patient Last Name 23	Patient First Name 23	Patient Middle Name 23	4/23/1962	F	M			Anoka	MN	55303	eye,surgery
+18	Patient Last Name 24	Patient First Name 24	Patient Middle Name 24	4/23/1986	F	S			Bethel	MN	55005	eye,surgery
+18	Patient Last Name 25	Patient First Name 25	Patient Middle Name 25	10/17/1983	F	S			Circle Pines	MN	55014	eye,surgery
+19	Patient Last Name 26	Patient First Name 26	Patient Middle Name 26	9/22/2016	F	M			Center City	MN	55012	eye,surgery
+19	Patient Last Name 27	Patient First Name 27	Patient Middle Name 27	9/19/2016	M	M			Chisago City	MN	55013	eye,surgery
+18	Patient Last Name 28	Patient First Name 28	Patient Middle Name 28	10/27/1963	F	S			Taylors Falls	MN	55084	eye,surgery
+19	Patient Last Name 29	Patient First Name 29	Patient Middle Name 29	8/2/2017	F	S			Burnsville	MN	55306	eye,surgery
+18	Patient Last Name 30	Patient First Name 30	Patient Middle Name 30	10/8/1989	F	M			Inver Grove Heights	MN	55077	eye,surgery
+18	Patient Last Name 31	Patient First Name 31	Patient Middle Name 31	11/19/1991	F	M			Lakeville	MN	55044	eye,surgery
+18	Patient Last Name 32	Patient First Name 32	Patient Middle Name 32	8/10/1988	F	M			Champlin	MN	55316	eye,surgery
+18	Patient Last Name 33	Patient First Name 33	Patient Middle Name 33	1/9/1985	F	M			Eden Prairie	MN	55344	eye,surgery
+18	Patient Last Name 34	Patient First Name 34	Patient Middle Name 34	10/17/1978	F	S			Hopkins	MN	55305	eye,surgery
+18	Patient Last Name 35	Patient First Name 35	Patient Middle Name 35	7/19/1987	F	S			Minneapolis	MN	55401	eye,surgery
+18	Patient Last Name 36	Patient First Name 36	Patient Middle Name 36	12/8/1972	F	M			Minneapolis	MN	55414	eye,surgery
+18	Patient Last Name 37	Patient First Name 37	Patient Middle Name 37	6/6/1974	F	M			Minneapolis	MN	55415	eye,surgery
+18	Patient Last Name 38	Patient First Name 38	Patient Middle Name 38	10/8/1986	F	S			Minneapolis	MN	55435	eye,surgery
+18	Patient Last Name 39	Patient First Name 39	Patient Middle Name 39	9/8/1958	F	S			Saint Paul	MN	55101	eye,surgery
+18	Patient Last Name 40	Patient First Name 40	Patient Middle Name 40	11/21/1974	F	M			Saint Paul	MN	55117	eye,surgery
+18	Patient Last Name 41	Patient First Name 41	Patient Middle Name 41	7/21/1991	F	M			Saint Paul	MN	55126	eye,surgery
+18	Patient Last Name 42	Patient First Name 42	Patient Middle Name 42	2/18/1972	F	M			Elk River	MN	55330	eye,surgery
+18	Patient Last Name 43	Patient First Name 43	Patient Middle Name 43	5/21/1955	F	M			Zimmerman	MN	55398	eye,surgery
+18	Patient Last Name 44	Patient First Name 44	Patient Middle Name 44	7/30/1989	F	S			Saint Cloud	MN	56301	eye,surgery
+18	Patient Last Name 45	Patient First Name 45	Patient Middle Name 45	4/20/1950	M	S			Anoka	MN	55303	eye,surgery
+18	Patient Last Name 46	Patient First Name 46	Patient Middle Name 46	7/18/1977	F	M			Bethel	MN	55005	eye,surgery
+18	Patient Last Name 47	Patient First Name 47	Patient Middle Name 47	1/4/1947	F	M			Circle Pines	MN	55014	eye,surgery
+18	Patient Last Name 48	Patient First Name 48	Patient Middle Name 48	10/3/1978	F	S			Center City	MN	55012	eye,surgery
+19	Patient Last Name 49	Patient First Name 49	Patient Middle Name 49	8/4/2017	F	S			Chisago City	MN	55013	eye,surgery
+18	Patient Last Name 50	Patient First Name 50	Patient Middle Name 50	11/6/1962	F	M			Taylors Falls	MN	55084	eye,surgery
+18	Patient Last Name 51	Patient First Name 51	Patient Middle Name 51	8/22/1979	F	M			Burnsville	MN	55306	eye,surgery
+18	Patient Last Name 52	Patient First Name 52	Patient Middle Name 52	7/1/1987	F	M			Inver Grove Heights	MN	55077	eye,surgery
+18	Patient Last Name 53	Patient First Name 53	Patient Middle Name 53	3/24/1957	M	M			Lakeville	MN	55044	eye,surgery
+18	Patient Last Name 54	Patient First Name 54	Patient Middle Name 54	9/14/1981	F	S			Champlin	MN	55316	eye,surgery
+18	Patient Last Name 55	Patient First Name 55	Patient Middle Name 55	6/17/1981	M	S			Eden Prairie	MN	55344	eye,surgery
+18	Patient Last Name 56	Patient First Name 56	Patient Middle Name 56	9/10/1987	F	M			Hopkins	MN	55305	eye,surgery
+18	Patient Last Name 57	Patient First Name 57	Patient Middle Name 57	10/7/1987	F	M			Minneapolis	MN	55401	eye,surgery
+19	Patient Last Name 58	Patient First Name 58	Patient Middle Name 58	11/12/2003	F	S			Minneapolis	MN	55414	eye,surgery
+18	Patient Last Name 59	Patient First Name 59	Patient Middle Name 59	6/23/1974	F	S			Minneapolis	MN	55415	eye,surgery
+18	Patient Last Name 60	Patient First Name 60	Patient Middle Name 60	7/9/1949	M	M			Minneapolis	MN	55435	eye,surgery
+18	Patient Last Name 61	Patient First Name 61	Patient Middle Name 61	9/14/1970	F	M			Saint Paul	MN	55101	eye,surgery
+19	Patient Last Name 62	Patient First Name 62	Patient Middle Name 62	7/11/2003	F	M			Saint Paul	MN	55117	eye,surgery
+18	Patient Last Name 63	Patient First Name 63	Patient Middle Name 63	3/20/1958	F	M			Saint Paul	MN	55126	eye,surgery
+18	Patient Last Name 64	Patient First Name 64	Patient Middle Name 64	1/18/1980	F	S			Elk River	MN	55330	eye,surgery
+18	Patient Last Name 65	Patient First Name 65	Patient Middle Name 65	10/2/1976	F	S			Zimmerman	MN	55398	eye,surgery
+18	Patient Last Name 66	Patient First Name 66	Patient Middle Name 66	2/11/1963	F	M			Saint Cloud	MN	56301	eye,surgery
+18	Patient Last Name 67	Patient First Name 67	Patient Middle Name 67	6/2/1989	F	M			Anoka	MN	55303	eye,surgery
+18	Patient Last Name 68	Patient First Name 68	Patient Middle Name 68	12/16/1962	F	S			Bethel	MN	55005	eye,surgery
+19	Patient Last Name 69	Patient First Name 69	Patient Middle Name 69	12/12/2014	M	S			Circle Pines	MN	55014	eye,surgery
+18	Patient Last Name 70	Patient First Name 70	Patient Middle Name 70	11/26/1986	F	M			Center City	MN	55012	eye,surgery
+18	Patient Last Name 71	Patient First Name 71	Patient Middle Name 71	5/29/1974	F	M			Chisago City	MN	55013	eye,surgery
+18	Patient Last Name 72	Patient First Name 72	Patient Middle Name 72	6/22/1986	M	M			Taylors Falls	MN	55084	eye,surgery
+18	Patient Last Name 73	Patient First Name 73	Patient Middle Name 73	10/2/1958	F	M			Burnsville	MN	55306	eye,surgery
+18	Patient Last Name 74	Patient First Name 74	Patient Middle Name 74	12/31/1981	F	S			Inver Grove Heights	MN	55077	eye,surgery
+19	Patient Last Name 75	Patient First Name 75	Patient Middle Name 75	8/19/2004	F	S			Lakeville	MN	55044	eye,surgery
+18	Patient Last Name 76	Patient First Name 76	Patient Middle Name 76	6/23/1962	F	M			Champlin	MN	55316	eye,surgery
+19	Patient Last Name 77	Patient First Name 77	Patient Middle Name 77	3/19/2014	F	M			Eden Prairie	MN	55344	eye,surgery
+18	Patient Last Name 78	Patient First Name 78	Patient Middle Name 78	9/8/1979	F	S			Hopkins	MN	55305	eye,surgery
+18	Patient Last Name 79	Patient First Name 79	Patient Middle Name 79	7/9/1985	F	S			Minneapolis	MN	55401	eye,surgery
+18	Patient Last Name 80	Patient First Name 80	Patient Middle Name 80	4/26/1991	F	M			Minneapolis	MN	55414	eye,surgery
+18	Patient Last Name 81	Patient First Name 81	Patient Middle Name 81	8/22/1991	F	M			Minneapolis	MN	55415	eye,surgery
+18	Patient Last Name 82	Patient First Name 82	Patient Middle Name 82	5/28/1991	M	M			Minneapolis	MN	55435	eye,surgery
+18	Patient Last Name 83	Patient First Name 83	Patient Middle Name 83	5/5/1977	F	M			Saint Paul	MN	55101	eye,surgery
+18	Patient Last Name 84	Patient First Name 84	Patient Middle Name 84	1/28/1986	F	S			Saint Paul	MN	55117	eye,surgery
+18	Patient Last Name 85	Patient First Name 85	Patient Middle Name 85	1/7/1973	F	S			Saint Paul	MN	55126	eye,surgery
+18	Patient Last Name 86	Patient First Name 86	Patient Middle Name 86	6/26/1988	F	M			Elk River	MN	55330	eye,surgery
+18	Patient Last Name 87	Patient First Name 87	Patient Middle Name 87	11/30/1975	F	M			Zimmerman	MN	55398	eye,surgery
+18	Patient Last Name 88	Patient First Name 88	Patient Middle Name 88	12/9/1969	F	S			Saint Cloud	MN	56301	eye,surgery
+18	Patient Last Name 89	Patient First Name 89	Patient Middle Name 89	1/12/1970	F	S			Anoka	MN	55303	eye,surgery
+18	Patient Last Name 90	Patient First Name 90	Patient Middle Name 90	6/16/1957	F	M			Bethel	MN	55005	eye,surgery
+18	Patient Last Name 91	Patient First Name 91	Patient Middle Name 91	2/12/1984	M	M			Circle Pines	MN	55014	eye,surgery
+18	Patient Last Name 92	Patient First Name 92	Patient Middle Name 92	10/10/1983	F	M			Center City	MN	55012	eye,surgery
+18	Patient Last Name 93	Patient First Name 93	Patient Middle Name 93	1/19/1969	F	M			Chisago City	MN	55013	eye,surgery
+18	Patient Last Name 94	Patient First Name 94	Patient Middle Name 94	6/3/1950	F	S			Taylors Falls	MN	55084	eye,surgery
+18	Patient Last Name 95	Patient First Name 95	Patient Middle Name 95	5/31/1988	M	S			Burnsville	MN	55306	eye,surgery
+18	Patient Last Name 96	Patient First Name 96	Patient Middle Name 96	7/23/1976	F	M			Inver Grove Heights	MN	55077	eye,surgery
+19	Patient Last Name 97	Patient First Name 97	Patient Middle Name 97	3/3/2015	F	M			Lakeville	MN	55044	eye,surgery
+18	Patient Last Name 98	Patient First Name 98	Patient Middle Name 98	10/23/1982	F	S			Champlin	MN	55316	eye,surgery
+18	Patient Last Name 99	Patient First Name 99	Patient Middle Name 99	3/19/1981	F	S			Eden Prairie	MN	55344	eye,surgery
+18	Patient Last Name 100	Patient First Name 100	Patient Middle Name 100	7/23/1988	F	M			Hopkins	MN	55305	eye,surgery
+18	Patient Last Name 101	Patient First Name 101	Patient Middle Name 101	7/31/1974	M	M			Minneapolis	MN	55401	eye,surgery
+18	Patient Last Name 102	Patient First Name 102	Patient Middle Name 102	8/25/1982	F	M			Minneapolis	MN	55414	eye,surgery
+18	Patient Last Name 103	Patient First Name 103	Patient Middle Name 103	10/15/1989	F	M			Minneapolis	MN	55415	eye,surgery
+18	Patient Last Name 104	Patient First Name 104	Patient Middle Name 104	6/11/1978	F	S			Minneapolis	MN	55435	eye,surgery
+18	Patient Last Name 105	Patient First Name 105	Patient Middle Name 105	12/26/1972	F	S			Saint Paul	MN	55101	eye,surgery
+18	Patient Last Name 106	Patient First Name 106	Patient Middle Name 106	2/11/1976	F	M			Saint Paul	MN	55117	eye,surgery
+18	Patient Last Name 107	Patient First Name 107	Patient Middle Name 107	4/20/1982	F	M			Saint Paul	MN	55126	eye,surgery
+18	Patient Last Name 108	Patient First Name 108	Patient Middle Name 108	2/17/1987	M	S			Elk River	MN	55330	eye,surgery
+18	Patient Last Name 109	Patient First Name 109	Patient Middle Name 109	6/17/1971	F	S			Zimmerman	MN	55398	eye,surgery
+18	Patient Last Name 110	Patient First Name 110	Patient Middle Name 110	11/30/1950	F	M			Saint Cloud	MN	56301	eye,surgery
+18	Patient Last Name 111	Patient First Name 111	Patient Middle Name 111	1/9/1982	F	M			Anoka	MN	55303	eye,surgery
+18	Patient Last Name 112	Patient First Name 112	Patient Middle Name 112	9/8/1988	F	M			Bethel	MN	55005	eye,surgery
+18	Patient Last Name 113	Patient First Name 113	Patient Middle Name 113	3/4/1988	F	M			Circle Pines	MN	55014	eye,surgery
+18	Patient Last Name 114	Patient First Name 114	Patient Middle Name 114	10/24/1981	F	S			Center City	MN	55012	eye,surgery
+18	Patient Last Name 115	Patient First Name 115	Patient Middle Name 115	1/31/1979	F	S			Chisago City	MN	55013	eye,surgery
+18	Patient Last Name 116	Patient First Name 116	Patient Middle Name 116	12/8/1978	F	M			Taylors Falls	MN	55084	eye,surgery
+18	Patient Last Name 117	Patient First Name 117	Patient Middle Name 117	11/17/1989	F	M			Burnsville	MN	55306	eye,surgery
+18	Patient Last Name 118	Patient First Name 118	Patient Middle Name 118	5/2/1970	F	S			Inver Grove Heights	MN	55077	eye,surgery
+18	Patient Last Name 119	Patient First Name 119	Patient Middle Name 119	9/23/1969	F	S			Lakeville	MN	55044	eye,surgery
+18	Patient Last Name 120	Patient First Name 120	Patient Middle Name 120	10/22/1951	F	M			Champlin	MN	55316	eye,surgery
+18	Patient Last Name 121	Patient First Name 121	Patient Middle Name 121	9/3/1960	F	M			Eden Prairie	MN	55344	eye,surgery
+18	Patient Last Name 122	Patient First Name 122	Patient Middle Name 122	2/11/1979	F	M			Hopkins	MN	55305	eye,surgery
+18	Patient Last Name 123	Patient First Name 123	Patient Middle Name 123	5/10/1980	F	M			Minneapolis	MN	55401	eye,surgery
+18	Patient Last Name 124	Patient First Name 124	Patient Middle Name 124	4/4/1987	F	S			Minneapolis	MN	55414	eye,surgery
+18	Patient Last Name 125	Patient First Name 125	Patient Middle Name 125	2/9/1953	F	S			Minneapolis	MN	55415	eye,surgery
+18	Patient Last Name 126	Patient First Name 126	Patient Middle Name 126	11/10/1963	F	M			Minneapolis	MN	55435	eye,surgery
+18	Patient Last Name 127	Patient First Name 127	Patient Middle Name 127	7/3/1979	F	M			Saint Paul	MN	55101	eye,surgery
+18	Patient Last Name 128	Patient First Name 128	Patient Middle Name 128	10/5/1961	F	S			Saint Paul	MN	55117	eye,surgery
+18	Patient Last Name 129	Patient First Name 129	Patient Middle Name 129	12/1/1973	F	S			Saint Paul	MN	55126	eye,surgery
+18	Patient Last Name 130	Patient First Name 130	Patient Middle Name 130	4/30/1955	M	M			Elk River	MN	55330	eye,surgery
+18	Patient Last Name 131	Patient First Name 131	Patient Middle Name 131	12/9/1976	M	M			Zimmerman	MN	55398	eye,surgery
+18	Patient Last Name 132	Patient First Name 132	Patient Middle Name 132	5/3/1991	F	M			Saint Cloud	MN	56301	eye,surgery
+18	Patient Last Name 133	Patient First Name 133	Patient Middle Name 133	5/29/1977	F	M			Anoka	MN	55303	eye,surgery
+18	Patient Last Name 134	Patient First Name 134	Patient Middle Name 134	6/6/1970	F	S			Bethel	MN	55005	eye,surgery
+18	Patient Last Name 135	Patient First Name 135	Patient Middle Name 135	9/19/1974	F	S			Circle Pines	MN	55014	eye,surgery
+18	Patient Last Name 136	Patient First Name 136	Patient Middle Name 136	8/12/1980	F	M			Center City	MN	55012	eye,surgery
+18	Patient Last Name 137	Patient First Name 137	Patient Middle Name 137	12/16/1970	F	M			Chisago City	MN	55013	eye,surgery
+18	Patient Last Name 138	Patient First Name 138	Patient Middle Name 138	6/7/1959	F	S			Taylors Falls	MN	55084	eye,surgery
+18	Patient Last Name 139	Patient First Name 139	Patient Middle Name 139	5/4/1975	M	S			Burnsville	MN	55306	eye,surgery
+18	Patient Last Name 140	Patient First Name 140	Patient Middle Name 140	6/11/1966	M	M			Inver Grove Heights	MN	55077	eye,surgery
+18	Patient Last Name 141	Patient First Name 141	Patient Middle Name 141	2/5/1988	M	M			Lakeville	MN	55044	eye,surgery
+18	Patient Last Name 142	Patient First Name 142	Patient Middle Name 142	10/3/1977	F	M			Champlin	MN	55316	eye,surgery
+18	Patient Last Name 143	Patient First Name 143	Patient Middle Name 143	10/23/1971	F	M			Eden Prairie	MN	55344	eye,surgery
+18	Patient Last Name 144	Patient First Name 144	Patient Middle Name 144	1/6/1984	F	S			Hopkins	MN	55305	eye,surgery
+18	Patient Last Name 145	Patient First Name 145	Patient Middle Name 145	7/9/1947	F	S			Minneapolis	MN	55401	eye,surgery
+18	Patient Last Name 146	Patient First Name 146	Patient Middle Name 146	9/13/1947	F	M			Minneapolis	MN	55414	eye,surgery
+18	Patient Last Name 147	Patient First Name 147	Patient Middle Name 147	1/6/1978	F	M			Minneapolis	MN	55415	eye,surgery
+18	Patient Last Name 148	Patient First Name 148	Patient Middle Name 148	1/6/1974	F	S			Minneapolis	MN	55435	eye,surgery
+18	Patient Last Name 149	Patient First Name 149	Patient Middle Name 149	12/1/1991	F	S			Saint Paul	MN	55101	eye,surgery
+18	Patient Last Name 150	Patient First Name 150	Patient Middle Name 150	1/5/1959	F	M			Saint Paul	MN	55117	eye,surgery
+18	Patient Last Name 151	Patient First Name 151	Patient Middle Name 151	2/22/1974	M	M			Saint Paul	MN	55126	eye,surgery
+18	Patient Last Name 152	Patient First Name 152	Patient Middle Name 152	11/11/1988	F	M			Elk River	MN	55330	eye,surgery
+18	Patient Last Name 153	Patient First Name 153	Patient Middle Name 153	1/4/1991	F	M			Zimmerman	MN	55398	eye,surgery
+18	Patient Last Name 154	Patient First Name 154	Patient Middle Name 154	2/13/1972	F	S			Saint Cloud	MN	56301	eye,surgery
+18	Patient Last Name 155	Patient First Name 155	Patient Middle Name 155	10/12/1984	F	S			Anoka	MN	55303	eye,surgery
+18	Patient Last Name 156	Patient First Name 156	Patient Middle Name 156	8/28/1963	F	M			Bethel	MN	55005	eye,surgery
+18	Patient Last Name 157	Patient First Name 157	Patient Middle Name 157	6/24/1987	F	M			Circle Pines	MN	55014	eye,surgery
+18	Patient Last Name 158	Patient First Name 158	Patient Middle Name 158	11/21/1987	F	S			Center City	MN	55012	eye,surgery
+18	Patient Last Name 159	Patient First Name 159	Patient Middle Name 159	7/4/1989	F	S			Chisago City	MN	55013	eye,surgery
+18	Patient Last Name 160	Patient First Name 160	Patient Middle Name 160	10/8/1989	F	M			Taylors Falls	MN	55084	eye,surgery
+18	Patient Last Name 161	Patient First Name 161	Patient Middle Name 161	8/6/1992	F	M			Burnsville	MN	55306	eye,surgery
+18	Patient Last Name 162	Patient First Name 162	Patient Middle Name 162	10/22/1985	F	M			Inver Grove Heights	MN	55077	eye,surgery
+18	Patient Last Name 163	Patient First Name 163	Patient Middle Name 163	10/3/1959	F	M			Lakeville	MN	55044	eye,surgery
+18	Patient Last Name 164	Patient First Name 164	Patient Middle Name 164	7/30/1963	M	S			Champlin	MN	55316	eye,surgery
+18	Patient Last Name 165	Patient First Name 165	Patient Middle Name 165	12/24/1951	F	S			Eden Prairie	MN	55344	eye,surgery
+18	Patient Last Name 166	Patient First Name 166	Patient Middle Name 166	5/21/1978	M	M			Hopkins	MN	55305	eye,surgery
+18	Patient Last Name 167	Patient First Name 167	Patient Middle Name 167	1/4/1983	M	M			Minneapolis	MN	55401	eye,surgery
+18	Patient Last Name 168	Patient First Name 168	Patient Middle Name 168	12/10/1987	F	S			Minneapolis	MN	55414	eye,surgery
+18	Patient Last Name 169	Patient First Name 169	Patient Middle Name 169	1/7/1982	M	S			Minneapolis	MN	55415	eye,surgery
+18	Patient Last Name 170	Patient First Name 170	Patient Middle Name 170	6/23/1968	F	M			Minneapolis	MN	55435	eye,surgery
+18	Patient Last Name 171	Patient First Name 171	Patient Middle Name 171	10/12/1989	F	M			Saint Paul	MN	55101	eye,surgery
+18	Patient Last Name 172	Patient First Name 172	Patient Middle Name 172	11/20/1964	F	M			Saint Paul	MN	55117	eye,surgery
+18	Patient Last Name 173	Patient First Name 173	Patient Middle Name 173	10/31/1988	F	M			Saint Paul	MN	55126	eye,surgery
+18	Patient Last Name 174	Patient First Name 174	Patient Middle Name 174	2/4/1964	F	S			Elk River	MN	55330	eye,surgery
+18	Patient Last Name 175	Patient First Name 175	Patient Middle Name 175	12/12/1969	F	S			Zimmerman	MN	55398	eye,surgery
+18	Patient Last Name 176	Patient First Name 176	Patient Middle Name 176	9/3/1975	F	M			Saint Cloud	MN	56301	eye,surgery
+18	Patient Last Name 177	Patient First Name 177	Patient Middle Name 177	11/15/1977	F	M			Anoka	MN	55303	eye,surgery
+19	Patient Last Name 178	Patient First Name 178	Patient Middle Name 178	10/28/2005	F	S			Bethel	MN	55005	eye,surgery
+18	Patient Last Name 179	Patient First Name 179	Patient Middle Name 179	6/8/1973	F	S			Circle Pines	MN	55014	eye,surgery
+18	Patient Last Name 180	Patient First Name 180	Patient Middle Name 180	11/6/1969	F	M			Center City	MN	55012	eye,surgery
+18	Patient Last Name 181	Patient First Name 181	Patient Middle Name 181	5/30/1963	F	M			Chisago City	MN	55013	eye,surgery
+18	Patient Last Name 182	Patient First Name 182	Patient Middle Name 182	12/20/1991	F	M			Taylors Falls	MN	55084	eye,surgery
+18	Patient Last Name 183	Patient First Name 183	Patient Middle Name 183	11/18/1971	F	M			Burnsville	MN	55306	eye,surgery
+18	Patient Last Name 184	Patient First Name 184	Patient Middle Name 184	9/23/1971	F	S			Inver Grove Heights	MN	55077	eye,surgery
+18	Patient Last Name 185	Patient First Name 185	Patient Middle Name 185	1/8/1975	F	S			Lakeville	MN	55044	eye,surgery
+18	Patient Last Name 186	Patient First Name 186	Patient Middle Name 186	12/20/1973	M	M			Champlin	MN	55316	eye,surgery
+18	Patient Last Name 187	Patient First Name 187	Patient Middle Name 187	6/2/1975	F	M			Eden Prairie	MN	55344	eye,surgery
+19	Patient Last Name 188	Patient First Name 188	Patient Middle Name 188	10/3/2005	F	S			Hopkins	MN	55305	eye,surgery
+18	Patient Last Name 189	Patient First Name 189	Patient Middle Name 189	6/27/1987	F	S			Minneapolis	MN	55401	eye,surgery
+19	Patient Last Name 190	Patient First Name 190	Patient Middle Name 190	5/30/2006	F	M			Minneapolis	MN	55414	eye,surgery
+18	Patient Last Name 191	Patient First Name 191	Patient Middle Name 191	12/14/1988	F	M			Minneapolis	MN	55415	eye,surgery
+18	Patient Last Name 192	Patient First Name 192	Patient Middle Name 192	12/1/1974	F	M			Minneapolis	MN	55435	eye,surgery
+18	Patient Last Name 193	Patient First Name 193	Patient Middle Name 193	1/25/1969	F	M			Saint Paul	MN	55101	eye,surgery
+18	Patient Last Name 194	Patient First Name 194	Patient Middle Name 194	2/11/1992	F	S			Saint Paul	MN	55117	eye,surgery
+18	Patient Last Name 195	Patient First Name 195	Patient Middle Name 195	8/25/1988	F	S			Saint Paul	MN	55126	eye,surgery
+18	Patient Last Name 196	Patient First Name 196	Patient Middle Name 196	1/24/1960	F	M			Elk River	MN	55330	eye,surgery
+19	Patient Last Name 197	Patient First Name 197	Patient Middle Name 197	5/28/2006	F	M			Zimmerman	MN	55398	eye,surgery
+18	Patient Last Name 198	Patient First Name 198	Patient Middle Name 198	3/3/1984	M	S			Saint Cloud	MN	56301	eye,surgery
+18	Patient Last Name 199	Patient First Name 199	Patient Middle Name 199	9/30/1977	F	S			Anoka	MN	55303	eye,surgery
+18	Patient Last Name 200	Patient First Name 200	Patient Middle Name 200	10/12/1989	F	M			Bethel	MN	55005	eye,surgery
+18	Patient Last Name 201	Patient First Name 201	Patient Middle Name 201	5/14/1962	F	M			Circle Pines	MN	55014	eye,surgery
+18	Patient Last Name 202	Patient First Name 202	Patient Middle Name 202	3/18/1984	F	M			Center City	MN	55012	eye,surgery
+18	Patient Last Name 203	Patient First Name 203	Patient Middle Name 203	11/23/1955	F	M			Chisago City	MN	55013	eye,surgery
+18	Patient Last Name 204	Patient First Name 204	Patient Middle Name 204	1/25/1966	M	S			Taylors Falls	MN	55084	eye,surgery
+18	Patient Last Name 205	Patient First Name 205	Patient Middle Name 205	9/13/1967	F	S			Burnsville	MN	55306	eye,surgery
+18	Patient Last Name 206	Patient First Name 206	Patient Middle Name 206	6/5/1962	F	M			Inver Grove Heights	MN	55077	eye,surgery
+18	Patient Last Name 207	Patient First Name 207	Patient Middle Name 207	1/19/1988	F	M			Lakeville	MN	55044	eye,surgery
+18	Patient Last Name 208	Patient First Name 208	Patient Middle Name 208	9/27/1976	M	S			Champlin	MN	55316	eye,surgery
+18	Patient Last Name 209	Patient First Name 209	Patient Middle Name 209	8/14/1968	F	S			Eden Prairie	MN	55344	eye,surgery
+18	Patient Last Name 210	Patient First Name 210	Patient Middle Name 210	2/9/1987	F	M			Hopkins	MN	55305	eye,surgery
+18	Patient Last Name 211	Patient First Name 211	Patient Middle Name 211	4/4/1985	F	M			Minneapolis	MN	55401	eye,surgery
+18	Patient Last Name 212	Patient First Name 212	Patient Middle Name 212	5/27/1972	F	M			Minneapolis	MN	55414	eye,surgery
+18	Patient Last Name 213	Patient First Name 213	Patient Middle Name 213	3/25/1982	F	M			Minneapolis	MN	55415	eye,surgery
+18	Patient Last Name 214	Patient First Name 214	Patient Middle Name 214	7/17/1986	M	S			Minneapolis	MN	55435	eye,surgery
+18	Patient Last Name 215	Patient First Name 215	Patient Middle Name 215	3/12/1991	F	S			Saint Paul	MN	55101	eye,surgery
+19	Patient Last Name 216	Patient First Name 216	Patient Middle Name 216	4/28/2006	F	M			Saint Paul	MN	55117	eye,surgery
+18	Patient Last Name 217	Patient First Name 217	Patient Middle Name 217	10/7/1986	F	M			Saint Paul	MN	55126	eye,surgery
+18	Patient Last Name 218	Patient First Name 218	Patient Middle Name 218	12/16/1970	F	S			Elk River	MN	55330	eye,surgery
+18	Patient Last Name 219	Patient First Name 219	Patient Middle Name 219	7/5/1941	M	S			Zimmerman	MN	55398	eye,surgery
+18	Patient Last Name 220	Patient First Name 220	Patient Middle Name 220	10/17/1985	M	M			Saint Cloud	MN	56301	eye,surgery
+18	Patient Last Name 221	Patient First Name 221	Patient Middle Name 221	2/25/1954	F	M			Stillwater	MN	55082	eye,surgery
+18	Patient Last Name 222	Patient First Name 222	Patient Middle Name 222	5/27/1972	F	M			Medford	MN	55049	eye,surgery
+18	Patient Last Name 223	Patient First Name 223	Patient Middle Name 223	3/25/1982	F	M			Pine City	MN	55063	eye,surgery
+18	Patient Last Name 224	Patient First Name 224	Patient Middle Name 224	7/17/1986	M	S			Chaska	MN	55318	eye,surgery
+18	Patient Last Name 225	Patient First Name 225	Patient Middle Name 225	3/12/1991	F	S			Buffalo	MN	55313	eye,surgery
+19	Patient Last Name 226	Patient First Name 226	Patient Middle Name 226	4/28/2009	F	M			Faribault	MN	55021	eye,surgery
+18	Patient Last Name 227	Patient First Name 227	Patient Middle Name 227	8/3/1978	F	M			Mankato	MN	56001	eye,surgery
+18	Patient Last Name 228	Patient First Name 228	Patient Middle Name 228	12/16/1970	F	S			Rochester	MN	55901	eye,surgery
+18	Patient Last Name 229	Patient First Name 229	Patient Middle Name 229	7/24/1953	M	S			Red Wing	MN	55066	eye,surgery
+18	Patient Last Name 230	Patient First Name 230	Patient Middle Name 230	10/17/1985	M	M			Princeton	MN	55371	eye,surgery
+18	Patient Last Name 231	Patient First Name 231	Patient Middle Name 231	2/25/1954	F	M			Stillwater	MN	55082	eye,surgery
+18	Patient Last Name 232	Patient First Name 232	Patient Middle Name 232	5/27/1972	F	M			Medford	MN	55049	eye,surgery
+18	Patient Last Name 233	Patient First Name 233	Patient Middle Name 233	3/25/1982	F	M			Pine City	MN	55063	eye,surgery
+18	Patient Last Name 234	Patient First Name 234	Patient Middle Name 234	7/17/1986	M	S			Chaska	MN	55318	eye,surgery
+18	Patient Last Name 235	Patient First Name 235	Patient Middle Name 235	3/12/1991	F	S			Buffalo	MN	55313	eye,surgery
+19	Patient Last Name 236	Patient First Name 236	Patient Middle Name 236	4/28/2009	F	M			Faribault	MN	55021	eye,surgery
+18	Patient Last Name 237	Patient First Name 237	Patient Middle Name 237	8/3/1978	F	M			Mankato	MN	56001	eye,surgery
+18	Patient Last Name 238	Patient First Name 238	Patient Middle Name 238	12/16/1970	F	S			Rochester	MN	55901	eye,surgery
+18	Patient Last Name 239	Patient First Name 239	Patient Middle Name 239	7/24/1953	M	S			Red Wing	MN	55066	eye,surgery
+18	Patient Last Name 240	Patient First Name 240	Patient Middle Name 240	10/17/1985	M	M			Princeton	MN	55371	eye,surgery
+18	Patient Last Name 241	Patient First Name 241	Patient Middle Name 241	2/25/1954	F	M			Stillwater	MN	55082	eye,surgery
+18	Patient Last Name 242	Patient First Name 242	Patient Middle Name 242	5/27/1972	F	M			Medford	MN	55049	eye,surgery
+18	Patient Last Name 243	Patient First Name 243	Patient Middle Name 243	3/25/1982	F	M			Pine City	MN	55063	eye,surgery
+18	Patient Last Name 244	Patient First Name 244	Patient Middle Name 244	7/17/1986	M	S			Chaska	MN	55318	eye,surgery
+18	Patient Last Name 245	Patient First Name 245	Patient Middle Name 245	3/12/1991	F	S			Buffalo	MN	55313	eye,surgery
+19	Patient Last Name 246	Patient First Name 246	Patient Middle Name 246	4/28/2008	F	M			Faribault	MN	55021	eye,surgery
+18	Patient Last Name 247	Patient First Name 247	Patient Middle Name 247	8/3/1978	F	M			Mankato	MN	56001	eye,surgery
+18	Patient Last Name 248	Patient First Name 248	Patient Middle Name 248	12/16/1970	F	S			Rochester	MN	55901	eye,surgery
+18	Patient Last Name 249	Patient First Name 249	Patient Middle Name 249	7/24/1953	M	S			Red Wing	MN	55066	eye,surgery
+18	Patient Last Name 250	Patient First Name 250	Patient Middle Name 250	10/17/1985	M	M			Princeton	MN	55371	eye,surgery
+18	Patient Last Name 251	Patient First Name 251	Patient Middle Name 251	2/25/1954	F	M			Stillwater	MN	55082	eye,surgery
+18	Patient Last Name 252	Patient First Name 252	Patient Middle Name 252	5/27/1972	F	M			Medford	MN	55049	eye,surgery
+18	Patient Last Name 253	Patient First Name 253	Patient Middle Name 253	3/25/1982	F	M			Pine City	MN	55063	eye,surgery
+18	Patient Last Name 254	Patient First Name 254	Patient Middle Name 254	7/17/1986	M	S			Chaska	MN	55318	eye,surgery
+18	Patient Last Name 255	Patient First Name 255	Patient Middle Name 255	3/12/1991	F	S			Buffalo	MN	55313	eye,surgery
+18	Patient Last Name 256	Patient First Name 256	Patient Middle Name 256	4/28/1990	F	M			Faribault	MN	55021	eye,surgery
+18	Patient Last Name 257	Patient First Name 257	Patient Middle Name 257	8/3/1978	F	M			Mankato	MN	56001	eye,surgery
+18	Patient Last Name 258	Patient First Name 258	Patient Middle Name 258	12/16/1970	F	S			Rochester	MN	55901	eye,surgery
+18	Patient Last Name 259	Patient First Name 259	Patient Middle Name 259	7/24/1953	M	S			Red Wing	MN	55066	eye,surgery
+18	Patient Last Name 260	Patient First Name 260	Patient Middle Name 260	10/17/1985	M	M			Princeton	MN	55371	eye,surgery
+18	Patient Last Name 261	Patient First Name 261	Patient Middle Name 261	2/25/1954	F	M			Stillwater	MN	55082	eye,surgery
+18	Patient Last Name 262	Patient First Name 262	Patient Middle Name 262	5/27/1972	F	M			Medford	MN	55049	eye,surgery
+18	Patient Last Name 263	Patient First Name 263	Patient Middle Name 263	3/25/1982	F	M			Pine City	MN	55063	eye,surgery
+18	Patient Last Name 264	Patient First Name 264	Patient Middle Name 264	7/17/1986	M	S			Chaska	MN	55318	eye,surgery
+19	Patient Last Name 265	Patient First Name 265	Patient Middle Name 265	3/12/2000	F	S			Buffalo	MN	55313	eye,surgery
+18	Patient Last Name 266	Patient First Name 266	Patient Middle Name 266	4/28/1990	F	M			Faribault	MN	55021	eye,surgery
+18	Patient Last Name 267	Patient First Name 267	Patient Middle Name 267	8/3/1978	F	M			Mankato	MN	56001	eye,surgery
+18	Patient Last Name 268	Patient First Name 268	Patient Middle Name 268	12/16/1970	F	S			Rochester	MN	55901	eye,surgery
+18	Patient Last Name 269	Patient First Name 269	Patient Middle Name 269	7/24/1953	M	S			Red Wing	MN	55066	eye,surgery
+18	Patient Last Name 270	Patient First Name 270	Patient Middle Name 270	10/17/1985	M	M			Princeton	MN	55371	eye,surgery
+18	Patient Last Name 271	Patient First Name 271	Patient Middle Name 271	2/25/1954	F	M			Stillwater	MN	55082	eye,surgery
+18	Patient Last Name 272	Patient First Name 272	Patient Middle Name 272	5/27/1972	F	M			Medford	MN	55049	eye,surgery
+18	Patient Last Name 273	Patient First Name 273	Patient Middle Name 273	3/25/1982	F	M			Pine City	MN	55063	eye,surgery
+18	Patient Last Name 274	Patient First Name 274	Patient Middle Name 274	7/17/1986	M	S			Chaska	MN	55318	eye,surgery
+19	Patient Last Name 275	Patient First Name 275	Patient Middle Name 275	3/12/2001	F	S			Buffalo	MN	55313	eye,surgery
+18	Patient Last Name 276	Patient First Name 276	Patient Middle Name 276	4/28/1990	F	M			Faribault	MN	55021	eye,surgery
+18	Patient Last Name 277	Patient First Name 277	Patient Middle Name 277	8/3/1978	F	M			Mankato	MN	56001	eye,surgery
+18	Patient Last Name 278	Patient First Name 278	Patient Middle Name 278	12/16/1970	F	S			Rochester	MN	55901	eye,surgery
+18	Patient Last Name 279	Patient First Name 279	Patient Middle Name 279	7/24/1953	M	S			Red Wing	MN	55066	eye,surgery
+19	Patient Last Name 280	Patient First Name 280	Patient Middle Name 280	10/17/2015	M	M			Princeton	MN	55371	eye,surgery

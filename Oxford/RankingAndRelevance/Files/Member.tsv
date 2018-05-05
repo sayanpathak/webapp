@@ -1,0 +1,281 @@
+mbr_id	group_name	mbr_effective_dt	mbr_term_dt	mbr_first_name	mbr_last_name	mbr_middle_name	mbr_relation	mbr_birth_dt	mbr_city	mbr_county	mbr_state	mbr_zip	mbr_gender_cd	marital_status_cd
+158588	Pizza Chain (1)	1/1/2007	12/31/2009	Member First Name 1	Member Last Name 1	Member Middle Name 1	19	10/4/2001	Anoka	Anoka	MN	55303	F	M
+159217	Large Packaged Foods	1/1/2007	12/31/2009	Member First Name 2	Member Last Name 2	Member Middle Name 2	19	3/11/2015	Bethel	Anoka	MN	55005	F	M
+159333	Midwest Windows MFG	1/1/2007	12/31/2009	Member First Name 3	Member Last Name 3	Member Middle Name 3	19	5/21/2002	Circle Pines	Anoka	MN	55014	M	M
+159717	Mid-size Lumber Yard	1/1/2007	12/31/2009	Member First Name 4	Member Last Name 4	Member Middle Name 4	18	10/19/1971	Center City	Chisago	MN	55012	F	S
+160285	Clothing Store (Women)	1/1/2007	12/31/2009	Member First Name 5	Member Last Name 5	Member Middle Name 5	18	6/4/2015	Chisago City	Chisago	MN	55013	F	S
+161209	Large Retail Store (1)	1/1/2007	12/31/2009	Member First Name 6	Member Last Name 6	Member Middle Name 6	18	4/26/1989	Taylors Falls	Chisago	MN	55084	F	M
+161265	Large Bank	1/1/2007	12/31/2009	Member First Name 7	Member Last Name 7	Member Middle Name 7	18	5/2/1988	Burnsville	Dakota	MN	55306	F	M
+161795	Large Bank	1/1/2007	12/31/2009	Member First Name 8	Member Last Name 8	Member Middle Name 8	18	1/14/1989	Inver Grove Heights	Dakota	MN	55077	F	S
+161832	Large Bank	1/1/2007	12/31/2009	Member First Name 9	Member Last Name 9	Member Middle Name 9	18	10/30/1989	Lakeville	Dakota	MN	55044	F	S
+161982	Large Packaged Foods	1/1/2007	12/31/2009	Member First Name 10	Member Last Name 10	Member Middle Name 10	19	8/10/2015	Champlin	Hennepin	MN	55316	F	M
+162234	Pizza Chain (2)	1/1/2007	12/31/2009	Member First Name 11	Member Last Name 11	Member Middle Name 11	18	3/29/1956	Eden Prairie	Hennepin	MN	55344	M	M
+162259	Large Packaged Foods	1/1/2007	12/31/2009	Member First Name 12	Member Last Name 12	Member Middle Name 12	18	9/22/1976	Hopkins	Hennepin	MN	55305	M	M
+163098	Midwest Windows MFG	1/1/2007	12/31/2009	Member First Name 13	Member Last Name 13	Member Middle Name 13	19	7/30/2016	Minneapolis	Hennepin	MN	55401	F	M
+163461	Mid-size Lumber Yard	1/1/2007	12/31/2009	Member First Name 14	Member Last Name 14	Member Middle Name 14	18	11/2/1983	Minneapolis	Hennepin	MN	55414	F	S
+163831	Clothing Store (Women)	1/1/2007	12/31/2009	Member First Name 15	Member Last Name 15	Member Middle Name 15	18	4/28/1949	Minneapolis	Hennepin	MN	55415	F	S
+164394	Large Retail Store (2)	1/1/2007	12/31/2009	Member First Name 16	Member Last Name 16	Member Middle Name 16	18	9/25/1989	Minneapolis	Hennepin	MN	55435	F	M
+164538	Large Bank	1/1/2007	12/31/2009	Member First Name 17	Member Last Name 17	Member Middle Name 17	18	11/8/1978	Saint Paul	Ramsey	MN	55101	F	M
+164559	Large Bank	1/1/2007	12/31/2009	Member First Name 18	Member Last Name 18	Member Middle Name 18	18	6/15/1988	Saint Paul	Ramsey	MN	55117	F	S
+165644	Large Bank	1/1/2007	12/31/2009	Member First Name 19	Member Last Name 19	Member Middle Name 19	18	12/24/1972	Saint Paul	Ramsey	MN	55126	F	S
+166255	Large Packaged Foods	1/1/2007	12/31/2009	Member First Name 20	Member Last Name 20	Member Middle Name 20	18	4/14/1943	Elk River	Sherburne	MN	55330	F	M
+166482	Pizza Chain (1)	1/1/2007	12/31/2009	Member First Name 21	Member Last Name 21	Member Middle Name 21	18	2/7/1976	Zimmerman	Sherburne	MN	55398	F	M
+167511	Large Packaged Foods	1/1/2007	12/31/2009	Member First Name 22	Member Last Name 22	Member Middle Name 22	18	5/24/1964	Saint Cloud	Stearns	MN	56301	F	M
+167567	Midwest Windows MFG	1/1/2007	12/31/2009	Member First Name 23	Member Last Name 23	Member Middle Name 23	18	4/23/1962	Anoka	Anoka	MN	55303	F	M
+167758	Mid-size Lumber Yard	1/1/2007	12/31/2009	Member First Name 24	Member Last Name 24	Member Middle Name 24	18	4/23/1986	Bethel	Anoka	MN	55005	F	S
+167835	Clothing Store (Men)	1/1/2007	12/31/2009	Member First Name 25	Member Last Name 25	Member Middle Name 25	18	10/17/1983	Circle Pines	Anoka	MN	55014	F	S
+171408	Large Retail Store (1)	1/1/2007	12/31/2009	Member First Name 26	Member Last Name 26	Member Middle Name 26	19	9/22/2016	Center City	Chisago	MN	55012	F	M
+171584	Large Bank	1/1/2007	12/31/2009	Member First Name 27	Member Last Name 27	Member Middle Name 27	19	9/19/2016	Chisago City	Chisago	MN	55013	M	M
+171663	Large Bank	1/1/2007	12/31/2009	Member First Name 28	Member Last Name 28	Member Middle Name 28	18	10/27/1963	Taylors Falls	Chisago	MN	55084	F	S
+171923	Large Bank	1/1/2007	12/31/2009	Member First Name 29	Member Last Name 29	Member Middle Name 29	19	8/2/2017	Burnsville	Dakota	MN	55306	F	S
+172044	Large Packaged Foods	1/1/2007	12/31/2009	Member First Name 30	Member Last Name 30	Member Middle Name 30	18	10/8/1989	Inver Grove Heights	Dakota	MN	55077	F	M
+172664	Pizza Chain (1)	1/1/2007	12/31/2009	Member First Name 31	Member Last Name 31	Member Middle Name 31	18	11/19/1991	Lakeville	Dakota	MN	55044	F	M
+173051	Large Packaged Foods	1/1/2007	12/31/2009	Member First Name 32	Member Last Name 32	Member Middle Name 32	18	8/10/1988	Champlin	Hennepin	MN	55316	F	M
+173204	Midwest Windows MFG	1/1/2007	12/31/2009	Member First Name 33	Member Last Name 33	Member Middle Name 33	18	1/9/1985	Eden Prairie	Hennepin	MN	55344	F	M
+173260	Mid-size Lumber Yard	1/1/2007	12/31/2009	Member First Name 34	Member Last Name 34	Member Middle Name 34	18	10/17/1978	Hopkins	Hennepin	MN	55305	F	S
+175031	Clothing Store (Women)	1/1/2007	12/31/2009	Member First Name 35	Member Last Name 35	Member Middle Name 35	18	7/19/1987	Minneapolis	Hennepin	MN	55401	F	S
+175219	Large Retail Store (3)	1/1/2007	12/31/2009	Member First Name 36	Member Last Name 36	Member Middle Name 36	18	12/8/1972	Minneapolis	Hennepin	MN	55414	F	M
+175697	Large Bank	1/1/2007	12/31/2009	Member First Name 37	Member Last Name 37	Member Middle Name 37	18	6/6/1974	Minneapolis	Hennepin	MN	55415	F	M
+176260	Large Bank	1/1/2007	12/31/2009	Member First Name 38	Member Last Name 38	Member Middle Name 38	18	10/8/1986	Minneapolis	Hennepin	MN	55435	F	S
+177049	Large Bank	1/1/2007	12/31/2009	Member First Name 39	Member Last Name 39	Member Middle Name 39	18	9/8/1958	Saint Paul	Ramsey	MN	55101	F	S
+177568	Large Packaged Foods	1/1/2007	12/31/2009	Member First Name 40	Member Last Name 40	Member Middle Name 40	18	11/21/1974	Saint Paul	Ramsey	MN	55117	F	M
+177952	Pizza Chain (2)	1/1/2007	12/31/2009	Member First Name 41	Member Last Name 41	Member Middle Name 41	18	7/21/1991	Saint Paul	Ramsey	MN	55126	F	M
+178067	Large Packaged Foods	1/1/2007	12/31/2009	Member First Name 42	Member Last Name 42	Member Middle Name 42	18	2/18/1972	Elk River	Sherburne	MN	55330	F	M
+178105	Midwest Windows MFG	1/1/2007	12/31/2009	Member First Name 43	Member Last Name 43	Member Middle Name 43	18	5/21/1955	Zimmerman	Sherburne	MN	55398	F	M
+178367	Mid-size Lumber Yard	1/1/2007	12/31/2009	Member First Name 44	Member Last Name 44	Member Middle Name 44	18	7/30/1989	Saint Cloud	Stearns	MN	56301	F	S
+178836	Clothing Store (Women)	1/1/2007	12/31/2009	Member First Name 45	Member Last Name 45	Member Middle Name 45	18	4/20/1950	Anoka	Anoka	MN	55303	M	S
+179497	Large Retail Store (1)	1/1/2007	12/31/2009	Member First Name 46	Member Last Name 46	Member Middle Name 46	18	7/18/1977	Bethel	Anoka	MN	55005	F	M
+181316	Large Bank	1/1/2007	12/31/2009	Member First Name 47	Member Last Name 47	Member Middle Name 47	18	1/4/1947	Circle Pines	Anoka	MN	55014	F	M
+181834	Large Bank	1/1/2007	12/31/2009	Member First Name 48	Member Last Name 48	Member Middle Name 48	18	10/3/1978	Center City	Chisago	MN	55012	F	S
+182561	Large Bank	1/1/2007	12/31/2009	Member First Name 49	Member Last Name 49	Member Middle Name 49	19	8/4/2017	Chisago City	Chisago	MN	55013	F	S
+182781	Large Packaged Foods	1/1/2007	12/31/2009	Member First Name 50	Member Last Name 50	Member Middle Name 50	18	11/6/1962	Taylors Falls	Chisago	MN	55084	F	M
+182806	Pizza Chain (1)	1/1/2007	12/31/2009	Member First Name 51	Member Last Name 51	Member Middle Name 51	18	8/22/1979	Burnsville	Dakota	MN	55306	F	M
+186458	Large Packaged Foods	1/1/2007	12/31/2009	Member First Name 52	Member Last Name 52	Member Middle Name 52	18	7/1/1987	Inver Grove Heights	Dakota	MN	55077	F	M
+186523	Midwest Windows MFG	1/1/2007	12/31/2009	Member First Name 53	Member Last Name 53	Member Middle Name 53	18	3/24/1957	Lakeville	Dakota	MN	55044	M	M
+186785	Mid-size Lumber Yard	1/1/2007	12/31/2009	Member First Name 54	Member Last Name 54	Member Middle Name 54	18	9/14/1981	Champlin	Hennepin	MN	55316	F	S
+187781	Clothing Store (Women)	1/1/2007	12/31/2009	Member First Name 55	Member Last Name 55	Member Middle Name 55	18	6/17/1981	Eden Prairie	Hennepin	MN	55344	M	S
+188202	Large Retail Store (1)	1/1/2007	12/31/2009	Member First Name 56	Member Last Name 56	Member Middle Name 56	18	9/10/1987	Hopkins	Hennepin	MN	55305	F	M
+188826	Large Bank	1/1/2007	12/31/2009	Member First Name 57	Member Last Name 57	Member Middle Name 57	18	10/7/1987	Minneapolis	Hennepin	MN	55401	F	M
+189828	Large Bank	1/1/2007	12/31/2009	Member First Name 58	Member Last Name 58	Member Middle Name 58	19	11/12/2003	Minneapolis	Hennepin	MN	55414	F	S
+189871	Large Bank	1/1/2007	12/31/2009	Member First Name 59	Member Last Name 59	Member Middle Name 59	18	6/23/1974	Minneapolis	Hennepin	MN	55415	F	S
+190115	Large Packaged Foods	1/1/2007	12/31/2009	Member First Name 60	Member Last Name 60	Member Middle Name 60	18	7/9/1949	Minneapolis	Hennepin	MN	55435	M	M
+190796	Pizza Chain (1)	1/1/2007	12/31/2009	Member First Name 61	Member Last Name 61	Member Middle Name 61	18	9/14/1970	Saint Paul	Ramsey	MN	55101	F	M
+192155	Large Packaged Foods	1/1/2007	12/31/2009	Member First Name 62	Member Last Name 62	Member Middle Name 62	19	7/11/2003	Saint Paul	Ramsey	MN	55117	F	M
+192806	Midwest Windows MFG	1/1/2007	12/31/2009	Member First Name 63	Member Last Name 63	Member Middle Name 63	18	3/20/1958	Saint Paul	Ramsey	MN	55126	F	M
+192987	Mid-size Lumber Yard	1/1/2007	12/31/2009	Member First Name 64	Member Last Name 64	Member Middle Name 64	18	1/18/1980	Elk River	Sherburne	MN	55330	F	S
+193448	Clothing Store (Men)	1/1/2007	12/31/2009	Member First Name 65	Member Last Name 65	Member Middle Name 65	18	10/2/1976	Zimmerman	Sherburne	MN	55398	F	S
+194791	Large Retail Store (2)	1/1/2007	12/31/2009	Member First Name 66	Member Last Name 66	Member Middle Name 66	18	2/11/1963	Saint Cloud	Stearns	MN	56301	F	M
+195708	Large Bank	1/1/2007	12/31/2009	Member First Name 67	Member Last Name 67	Member Middle Name 67	18	6/2/1989	Anoka	Anoka	MN	55303	F	M
+196510	Large Bank	1/1/2007	12/31/2009	Member First Name 68	Member Last Name 68	Member Middle Name 68	18	12/16/1962	Bethel	Anoka	MN	55005	F	S
+196762	Large Bank	1/1/2007	12/31/2009	Member First Name 69	Member Last Name 69	Member Middle Name 69	19	12/12/2014	Circle Pines	Anoka	MN	55014	M	S
+196797	Large Packaged Foods	1/1/2007	12/31/2009	Member First Name 70	Member Last Name 70	Member Middle Name 70	18	11/26/1986	Center City	Chisago	MN	55012	F	M
+196850	Pizza Chain (2)	1/1/2007	12/31/2009	Member First Name 71	Member Last Name 71	Member Middle Name 71	18	5/29/1974	Chisago City	Chisago	MN	55013	F	M
+197804	Large Packaged Foods	1/1/2007	12/31/2009	Member First Name 72	Member Last Name 72	Member Middle Name 72	18	6/22/1986	Taylors Falls	Chisago	MN	55084	M	M
+199091	Midwest Windows MFG	1/1/2007	12/31/2009	Member First Name 73	Member Last Name 73	Member Middle Name 73	18	10/2/1958	Burnsville	Dakota	MN	55306	F	M
+199335	Mid-size Lumber Yard	1/1/2007	12/31/2009	Member First Name 74	Member Last Name 74	Member Middle Name 74	18	12/31/1981	Inver Grove Heights	Dakota	MN	55077	F	S
+199916	Clothing Store (Women)	1/1/2007	12/31/2009	Member First Name 75	Member Last Name 75	Member Middle Name 75	19	8/19/2004	Lakeville	Dakota	MN	55044	F	S
+200477	Large Retail Store (3)	1/1/2007	12/31/2009	Member First Name 76	Member Last Name 76	Member Middle Name 76	18	6/23/1962	Champlin	Hennepin	MN	55316	F	M
+201248	Large Bank	1/1/2007	12/31/2009	Member First Name 77	Member Last Name 77	Member Middle Name 77	19	3/19/2014	Eden Prairie	Hennepin	MN	55344	F	M
+201752	Large Bank	1/1/2007	12/31/2009	Member First Name 78	Member Last Name 78	Member Middle Name 78	18	9/8/1979	Hopkins	Hennepin	MN	55305	F	S
+202457	Large Bank	1/1/2007	12/31/2009	Member First Name 79	Member Last Name 79	Member Middle Name 79	18	7/9/1985	Minneapolis	Hennepin	MN	55401	F	S
+203423	Large Packaged Foods	1/1/2007	12/31/2009	Member First Name 80	Member Last Name 80	Member Middle Name 80	18	4/26/1991	Minneapolis	Hennepin	MN	55414	F	M
+203769	Pizza Chain (1)	1/1/2007	12/31/2009	Member First Name 81	Member Last Name 81	Member Middle Name 81	18	8/22/1991	Minneapolis	Hennepin	MN	55415	F	M
+204979	Large Packaged Foods	1/1/2007	12/31/2009	Member First Name 82	Member Last Name 82	Member Middle Name 82	18	5/28/1991	Minneapolis	Hennepin	MN	55435	M	M
+205446	Midwest Windows MFG	1/1/2007	12/31/2009	Member First Name 83	Member Last Name 83	Member Middle Name 83	18	5/5/1977	Saint Paul	Ramsey	MN	55101	F	M
+207145	Mid-size Lumber Yard	1/1/2007	12/31/2009	Member First Name 84	Member Last Name 84	Member Middle Name 84	18	1/28/1986	Saint Paul	Ramsey	MN	55117	F	S
+207778	Clothing Store (Women)	1/1/2007	12/31/2009	Member First Name 85	Member Last Name 85	Member Middle Name 85	18	1/7/1973	Saint Paul	Ramsey	MN	55126	F	S
+207835	Large Retail Store (1)	1/1/2007	12/31/2009	Member First Name 86	Member Last Name 86	Member Middle Name 86	18	6/26/1988	Elk River	Sherburne	MN	55330	F	M
+208027	Large Bank	1/1/2007	12/31/2009	Member First Name 87	Member Last Name 87	Member Middle Name 87	18	11/30/1975	Zimmerman	Sherburne	MN	55398	F	M
+208460	Large Bank	1/1/2007	12/31/2009	Member First Name 88	Member Last Name 88	Member Middle Name 88	18	12/9/1969	Saint Cloud	Stearns	MN	56301	F	S
+210266	Large Bank	1/1/2007	12/31/2009	Member First Name 89	Member Last Name 89	Member Middle Name 89	18	1/12/1970	Anoka	Anoka	MN	55303	F	S
+210786	Large Packaged Foods	1/1/2007	12/31/2009	Member First Name 90	Member Last Name 90	Member Middle Name 90	18	6/16/1957	Bethel	Anoka	MN	55005	F	M
+211377	Pizza Chain (1)	1/1/2007	12/31/2009	Member First Name 91	Member Last Name 91	Member Middle Name 91	18	2/12/1984	Circle Pines	Anoka	MN	55014	M	M
+212381	Large Packaged Foods	1/1/2007	12/31/2009	Member First Name 92	Member Last Name 92	Member Middle Name 92	18	10/10/1983	Center City	Chisago	MN	55012	F	M
+212758	Midwest Windows MFG	1/1/2007	12/31/2009	Member First Name 93	Member Last Name 93	Member Middle Name 93	18	1/19/1969	Chisago City	Chisago	MN	55013	F	M
+213544	Mid-size Lumber Yard	1/1/2007	12/31/2009	Member First Name 94	Member Last Name 94	Member Middle Name 94	18	6/3/1950	Taylors Falls	Chisago	MN	55084	F	S
+213667	Clothing Store (Women)	1/1/2007	12/31/2009	Member First Name 95	Member Last Name 95	Member Middle Name 95	18	5/31/1988	Burnsville	Dakota	MN	55306	M	S
+214703	Large Retail Store (1)	1/1/2007	12/31/2009	Member First Name 96	Member Last Name 96	Member Middle Name 96	18	7/23/1976	Inver Grove Heights	Dakota	MN	55077	F	M
+215204	Large Bank	1/1/2007	12/31/2009	Member First Name 97	Member Last Name 97	Member Middle Name 97	19	3/3/2015	Lakeville	Dakota	MN	55044	F	M
+215698	Large Bank	1/1/2007	12/31/2009	Member First Name 98	Member Last Name 98	Member Middle Name 98	18	10/23/1982	Champlin	Hennepin	MN	55316	F	S
+216789	Large Bank	1/1/2007	12/31/2009	Member First Name 99	Member Last Name 99	Member Middle Name 99	18	3/19/1981	Eden Prairie	Hennepin	MN	55344	F	S
+217502	Large Packaged Foods	1/1/2007	12/31/2009	Member First Name 100	Member Last Name 100	Member Middle Name 100	18	7/23/1988	Hopkins	Hennepin	MN	55305	F	M
+217636	Pizza Chain (2)	1/1/2007	12/31/2009	Member First Name 101	Member Last Name 101	Member Middle Name 101	18	7/31/1974	Minneapolis	Hennepin	MN	55401	M	M
+218144	Large Packaged Foods	1/1/2007	12/31/2009	Member First Name 102	Member Last Name 102	Member Middle Name 102	18	8/25/1982	Minneapolis	Hennepin	MN	55414	F	M
+218533	Midwest Windows MFG	1/1/2007	12/31/2009	Member First Name 103	Member Last Name 103	Member Middle Name 103	18	10/15/1989	Minneapolis	Hennepin	MN	55415	F	M
+221174	Mid-size Lumber Yard	1/1/2007	12/31/2009	Member First Name 104	Member Last Name 104	Member Middle Name 104	18	6/11/1978	Minneapolis	Hennepin	MN	55435	F	S
+223306	Clothing Store (Men)	1/1/2007	12/31/2009	Member First Name 105	Member Last Name 105	Member Middle Name 105	18	12/26/1972	Saint Paul	Ramsey	MN	55101	F	S
+223803	Large Retail Store (1)	1/1/2007	12/31/2009	Member First Name 106	Member Last Name 106	Member Middle Name 106	18	2/11/1976	Saint Paul	Ramsey	MN	55117	F	M
+225435	Large Bank	1/1/2007	12/31/2009	Member First Name 107	Member Last Name 107	Member Middle Name 107	18	4/20/1982	Saint Paul	Ramsey	MN	55126	F	M
+226466	Large Bank	1/1/2007	12/31/2009	Member First Name 108	Member Last Name 108	Member Middle Name 108	18	2/17/1987	Elk River	Sherburne	MN	55330	M	S
+228070	Large Bank	1/1/2007	12/31/2009	Member First Name 109	Member Last Name 109	Member Middle Name 109	18	6/17/1971	Zimmerman	Sherburne	MN	55398	F	S
+232155	Large Packaged Foods	1/1/2007	12/31/2009	Member First Name 110	Member Last Name 110	Member Middle Name 110	18	11/30/1950	Saint Cloud	Stearns	MN	56301	F	M
+232970	Pizza Chain (1)	1/1/2007	12/31/2009	Member First Name 111	Member Last Name 111	Member Middle Name 111	18	1/9/1982	Anoka	Anoka	MN	55303	F	M
+233691	Large Packaged Foods	1/1/2007	12/31/2009	Member First Name 112	Member Last Name 112	Member Middle Name 112	18	9/8/1988	Bethel	Anoka	MN	55005	F	M
+234639	Midwest Windows MFG	1/1/2007	12/31/2009	Member First Name 113	Member Last Name 113	Member Middle Name 113	18	3/4/1988	Circle Pines	Anoka	MN	55014	F	M
+234760	Mid-size Lumber Yard	1/1/2007	12/31/2009	Member First Name 114	Member Last Name 114	Member Middle Name 114	18	10/24/1981	Center City	Chisago	MN	55012	F	S
+235525	Clothing Store (Women)	1/1/2007	12/31/2009	Member First Name 115	Member Last Name 115	Member Middle Name 115	18	1/31/1979	Chisago City	Chisago	MN	55013	F	S
+244536	Large Retail Store (2)	1/1/2007	12/31/2009	Member First Name 116	Member Last Name 116	Member Middle Name 116	18	12/8/1978	Taylors Falls	Chisago	MN	55084	F	M
+245930	Large Bank	1/1/2007	12/31/2009	Member First Name 117	Member Last Name 117	Member Middle Name 117	18	11/17/1989	Burnsville	Dakota	MN	55306	F	M
+247388	Large Bank	1/1/2007	12/31/2009	Member First Name 118	Member Last Name 118	Member Middle Name 118	18	5/2/1970	Inver Grove Heights	Dakota	MN	55077	F	S
+248411	Large Bank	1/1/2007	12/31/2009	Member First Name 119	Member Last Name 119	Member Middle Name 119	18	9/23/1969	Lakeville	Dakota	MN	55044	F	S
+251103	Large Packaged Foods	1/1/2007	12/31/2009	Member First Name 120	Member Last Name 120	Member Middle Name 120	18	10/22/1951	Champlin	Hennepin	MN	55316	F	M
+252626	Pizza Chain (1)	1/1/2007	12/31/2009	Member First Name 121	Member Last Name 121	Member Middle Name 121	18	9/3/1960	Eden Prairie	Hennepin	MN	55344	F	M
+258178	Large Packaged Foods	1/1/2007	12/31/2009	Member First Name 122	Member Last Name 122	Member Middle Name 122	18	2/11/1979	Hopkins	Hennepin	MN	55305	F	M
+260200	Midwest Windows MFG	1/1/2007	12/31/2009	Member First Name 123	Member Last Name 123	Member Middle Name 123	18	5/10/1980	Minneapolis	Hennepin	MN	55401	F	M
+260281	Mid-size Lumber Yard	1/1/2007	12/31/2009	Member First Name 124	Member Last Name 124	Member Middle Name 124	18	4/4/1987	Minneapolis	Hennepin	MN	55414	F	S
+263249	Clothing Store (Women)	1/1/2007	12/31/2009	Member First Name 125	Member Last Name 125	Member Middle Name 125	18	2/9/1953	Minneapolis	Hennepin	MN	55415	F	S
+263256	Large Retail Store (3)	1/1/2007	12/31/2009	Member First Name 126	Member Last Name 126	Member Middle Name 126	18	11/10/1963	Minneapolis	Hennepin	MN	55435	F	M
+264959	Large Bank	1/1/2007	12/31/2009	Member First Name 127	Member Last Name 127	Member Middle Name 127	18	7/3/1979	Saint Paul	Ramsey	MN	55101	F	M
+268045	Large Bank	1/1/2007	12/31/2009	Member First Name 128	Member Last Name 128	Member Middle Name 128	18	10/5/1961	Saint Paul	Ramsey	MN	55117	F	S
+269722	Large Bank	1/1/2007	12/31/2009	Member First Name 129	Member Last Name 129	Member Middle Name 129	18	12/1/1973	Saint Paul	Ramsey	MN	55126	F	S
+270920	Large Packaged Foods	1/1/2007	12/31/2009	Member First Name 130	Member Last Name 130	Member Middle Name 130	18	4/30/1955	Elk River	Sherburne	MN	55330	M	M
+273426	Pizza Chain (2)	1/1/2007	12/31/2009	Member First Name 131	Member Last Name 131	Member Middle Name 131	18	12/9/1976	Zimmerman	Sherburne	MN	55398	M	M
+273949	Large Packaged Foods	1/1/2007	12/31/2009	Member First Name 132	Member Last Name 132	Member Middle Name 132	18	5/3/1991	Saint Cloud	Stearns	MN	56301	F	M
+276366	Midwest Windows MFG	1/1/2007	12/31/2009	Member First Name 133	Member Last Name 133	Member Middle Name 133	18	5/29/1977	Anoka	Anoka	MN	55303	F	M
+278365	Mid-size Lumber Yard	1/1/2007	12/31/2009	Member First Name 134	Member Last Name 134	Member Middle Name 134	18	6/6/1970	Bethel	Anoka	MN	55005	F	S
+284016	Clothing Store (Women)	1/1/2007	12/31/2009	Member First Name 135	Member Last Name 135	Member Middle Name 135	18	9/19/1974	Circle Pines	Anoka	MN	55014	F	S
+285461	Large Retail Store (1)	1/1/2007	12/31/2009	Member First Name 136	Member Last Name 136	Member Middle Name 136	18	8/12/1980	Center City	Chisago	MN	55012	F	M
+285951	Large Bank	1/1/2007	12/31/2009	Member First Name 137	Member Last Name 137	Member Middle Name 137	18	12/16/1970	Chisago City	Chisago	MN	55013	F	M
+286550	Large Bank	1/1/2007	12/31/2009	Member First Name 138	Member Last Name 138	Member Middle Name 138	18	6/7/1959	Taylors Falls	Chisago	MN	55084	F	S
+287203	Large Bank	1/1/2007	12/31/2009	Member First Name 139	Member Last Name 139	Member Middle Name 139	18	5/4/1975	Burnsville	Dakota	MN	55306	M	S
+287945	Large Packaged Foods	1/1/2007	12/31/2009	Member First Name 140	Member Last Name 140	Member Middle Name 140	18	6/11/1966	Inver Grove Heights	Dakota	MN	55077	M	M
+288444	Pizza Chain (1)	1/1/2007	12/31/2009	Member First Name 141	Member Last Name 141	Member Middle Name 141	18	2/5/1988	Lakeville	Dakota	MN	55044	M	M
+295986	Large Packaged Foods	1/1/2007	12/31/2009	Member First Name 142	Member Last Name 142	Member Middle Name 142	18	10/3/1977	Champlin	Hennepin	MN	55316	F	M
+297998	Midwest Windows MFG	1/1/2007	12/31/2009	Member First Name 143	Member Last Name 143	Member Middle Name 143	18	10/23/1971	Eden Prairie	Hennepin	MN	55344	F	M
+301276	Mid-size Lumber Yard	1/1/2007	12/31/2009	Member First Name 144	Member Last Name 144	Member Middle Name 144	18	1/6/1984	Hopkins	Hennepin	MN	55305	F	S
+303945	Clothing Store (Women)	1/1/2007	12/31/2009	Member First Name 145	Member Last Name 145	Member Middle Name 145	18	7/9/1947	Minneapolis	Hennepin	MN	55401	F	S
+304552	Large Retail Store (1)	1/1/2007	12/31/2009	Member First Name 146	Member Last Name 146	Member Middle Name 146	18	9/13/1947	Minneapolis	Hennepin	MN	55414	F	M
+309930	Large Bank	1/1/2007	12/31/2009	Member First Name 147	Member Last Name 147	Member Middle Name 147	18	1/6/1978	Minneapolis	Hennepin	MN	55415	F	M
+311558	Large Bank	1/1/2007	12/31/2009	Member First Name 148	Member Last Name 148	Member Middle Name 148	18	1/6/1974	Minneapolis	Hennepin	MN	55435	F	S
+313344	Large Bank	1/1/2007	12/31/2009	Member First Name 149	Member Last Name 149	Member Middle Name 149	18	12/1/1991	Saint Paul	Ramsey	MN	55101	F	S
+313672	Large Packaged Foods	1/1/2007	12/31/2009	Member First Name 150	Member Last Name 150	Member Middle Name 150	18	1/5/1959	Saint Paul	Ramsey	MN	55117	F	M
+313861	Pizza Chain (2)	1/1/2007	12/31/2009	Member First Name 151	Member Last Name 151	Member Middle Name 151	18	2/22/1974	Saint Paul	Ramsey	MN	55126	M	M
+317315	Large Packaged Foods	1/1/2007	12/31/2009	Member First Name 152	Member Last Name 152	Member Middle Name 152	18	11/11/1988	Elk River	Sherburne	MN	55330	F	M
+317819	Midwest Windows MFG	1/1/2007	12/31/2009	Member First Name 153	Member Last Name 153	Member Middle Name 153	18	1/4/1991	Zimmerman	Sherburne	MN	55398	F	M
+318254	Mid-size Lumber Yard	1/1/2007	12/31/2009	Member First Name 154	Member Last Name 154	Member Middle Name 154	18	2/13/1972	Saint Cloud	Stearns	MN	56301	F	S
+320847	Clothing Store (Men)	1/1/2007	12/31/2009	Member First Name 155	Member Last Name 155	Member Middle Name 155	18	10/12/1984	Anoka	Anoka	MN	55303	F	S
+321629	Large Retail Store (2)	1/1/2007	12/31/2009	Member First Name 156	Member Last Name 156	Member Middle Name 156	18	8/28/1963	Bethel	Anoka	MN	55005	F	M
+321942	Large Bank	1/1/2007	12/31/2009	Member First Name 157	Member Last Name 157	Member Middle Name 157	18	6/24/1987	Circle Pines	Anoka	MN	55014	F	M
+325558	Large Bank	1/1/2007	12/31/2009	Member First Name 158	Member Last Name 158	Member Middle Name 158	18	11/21/1987	Center City	Chisago	MN	55012	F	S
+332594	Large Bank	1/1/2007	12/31/2009	Member First Name 159	Member Last Name 159	Member Middle Name 159	18	7/4/1989	Chisago City	Chisago	MN	55013	F	S
+334342	Large Packaged Foods	1/1/2007	12/31/2009	Member First Name 160	Member Last Name 160	Member Middle Name 160	18	10/8/1989	Taylors Falls	Chisago	MN	55084	F	M
+335981	Pizza Chain (1)	1/1/2007	12/31/2009	Member First Name 161	Member Last Name 161	Member Middle Name 161	18	8/6/1992	Burnsville	Dakota	MN	55306	F	M
+342094	Large Packaged Foods	1/1/2007	12/31/2009	Member First Name 162	Member Last Name 162	Member Middle Name 162	18	10/22/1985	Inver Grove Heights	Dakota	MN	55077	F	M
+342816	Midwest Windows MFG	1/1/2007	12/31/2009	Member First Name 163	Member Last Name 163	Member Middle Name 163	18	10/3/1959	Lakeville	Dakota	MN	55044	F	M
+343399	Mid-size Lumber Yard	1/1/2007	12/31/2009	Member First Name 164	Member Last Name 164	Member Middle Name 164	18	7/30/1963	Champlin	Hennepin	MN	55316	M	S
+345043	Clothing Store (Women)	1/1/2007	12/31/2009	Member First Name 165	Member Last Name 165	Member Middle Name 165	18	12/24/1951	Eden Prairie	Hennepin	MN	55344	F	S
+348303	Large Retail Store (3)	1/1/2007	12/31/2009	Member First Name 166	Member Last Name 166	Member Middle Name 166	18	5/21/1978	Hopkins	Hennepin	MN	55305	M	M
+352775	Large Bank	1/1/2007	12/31/2009	Member First Name 167	Member Last Name 167	Member Middle Name 167	18	1/4/1983	Minneapolis	Hennepin	MN	55401	M	M
+358418	Large Bank	1/1/2007	12/31/2009	Member First Name 168	Member Last Name 168	Member Middle Name 168	18	12/10/1987	Minneapolis	Hennepin	MN	55414	F	S
+360061	Large Bank	1/1/2007	12/31/2009	Member First Name 169	Member Last Name 169	Member Middle Name 169	18	1/7/1982	Minneapolis	Hennepin	MN	55415	M	S
+363112	Large Packaged Foods	1/1/2007	12/31/2009	Member First Name 170	Member Last Name 170	Member Middle Name 170	18	6/23/1968	Minneapolis	Hennepin	MN	55435	F	M
+365112	Pizza Chain (1)	1/1/2007	12/31/2009	Member First Name 171	Member Last Name 171	Member Middle Name 171	18	10/12/1989	Saint Paul	Ramsey	MN	55101	F	M
+368150	Large Packaged Foods	1/1/2007	12/31/2009	Member First Name 172	Member Last Name 172	Member Middle Name 172	18	11/20/1964	Saint Paul	Ramsey	MN	55117	F	M
+368845	Midwest Windows MFG	1/1/2007	12/31/2009	Member First Name 173	Member Last Name 173	Member Middle Name 173	18	10/31/1988	Saint Paul	Ramsey	MN	55126	F	M
+373709	Mid-size Lumber Yard	1/1/2007	12/31/2009	Member First Name 174	Member Last Name 174	Member Middle Name 174	18	2/4/1964	Elk River	Sherburne	MN	55330	F	S
+375539	Clothing Store (Women)	1/1/2007	12/31/2009	Member First Name 175	Member Last Name 175	Member Middle Name 175	18	12/12/1969	Zimmerman	Sherburne	MN	55398	F	S
+376871	Large Retail Store (1)	1/1/2007	12/31/2009	Member First Name 176	Member Last Name 176	Member Middle Name 176	18	9/3/1975	Saint Cloud	Stearns	MN	56301	F	M
+383999	Large Bank	1/1/2007	12/31/2009	Member First Name 177	Member Last Name 177	Member Middle Name 177	18	11/15/1977	Anoka	Anoka	MN	55303	F	M
+386193	Large Bank	1/1/2007	12/31/2009	Member First Name 178	Member Last Name 178	Member Middle Name 178	19	10/28/2005	Bethel	Anoka	MN	55005	F	S
+401658	Large Bank	1/1/2007	12/31/2009	Member First Name 179	Member Last Name 179	Member Middle Name 179	18	6/8/1973	Circle Pines	Anoka	MN	55014	F	S
+402469	Large Packaged Foods	1/1/2007	12/31/2009	Member First Name 180	Member Last Name 180	Member Middle Name 180	18	11/6/1969	Center City	Chisago	MN	55012	F	M
+403664	Pizza Chain (1)	1/1/2007	12/31/2009	Member First Name 181	Member Last Name 181	Member Middle Name 181	18	5/30/1963	Chisago City	Chisago	MN	55013	F	M
+405739	Large Packaged Foods	1/1/2007	12/31/2009	Member First Name 182	Member Last Name 182	Member Middle Name 182	18	12/20/1991	Taylors Falls	Chisago	MN	55084	F	M
+408497	Midwest Windows MFG	1/1/2007	12/31/2009	Member First Name 183	Member Last Name 183	Member Middle Name 183	18	11/18/1971	Burnsville	Dakota	MN	55306	F	M
+411655	Mid-size Lumber Yard	1/1/2007	12/31/2009	Member First Name 184	Member Last Name 184	Member Middle Name 184	18	9/23/1971	Inver Grove Heights	Dakota	MN	55077	F	S
+413786	Clothing Store (Women)	1/1/2007	12/31/2009	Member First Name 185	Member Last Name 185	Member Middle Name 185	18	1/8/1975	Lakeville	Dakota	MN	55044	F	S
+414679	Large Retail Store (1)	1/1/2007	12/31/2009	Member First Name 186	Member Last Name 186	Member Middle Name 186	18	12/20/1973	Champlin	Hennepin	MN	55316	M	M
+417777	Large Bank	1/1/2007	12/31/2009	Member First Name 187	Member Last Name 187	Member Middle Name 187	18	6/2/1975	Eden Prairie	Hennepin	MN	55344	F	M
+417944	Large Bank	1/1/2007	12/31/2009	Member First Name 188	Member Last Name 188	Member Middle Name 188	19	10/3/2005	Hopkins	Hennepin	MN	55305	F	S
+418044	Large Bank	1/1/2007	12/31/2009	Member First Name 189	Member Last Name 189	Member Middle Name 189	18	6/27/1987	Minneapolis	Hennepin	MN	55401	F	S
+418341	Large Packaged Foods	1/1/2007	12/31/2009	Member First Name 190	Member Last Name 190	Member Middle Name 190	19	5/30/2006	Minneapolis	Hennepin	MN	55414	F	M
+419209	Pizza Chain (2)	1/1/2007	12/31/2009	Member First Name 191	Member Last Name 191	Member Middle Name 191	18	12/14/1988	Minneapolis	Hennepin	MN	55415	F	M
+420241	Large Packaged Foods	1/1/2007	12/31/2009	Member First Name 192	Member Last Name 192	Member Middle Name 192	18	12/1/1974	Minneapolis	Hennepin	MN	55435	F	M
+426493	Midwest Windows MFG	1/1/2007	12/31/2009	Member First Name 193	Member Last Name 193	Member Middle Name 193	18	1/25/1969	Saint Paul	Ramsey	MN	55101	F	M
+429140	Mid-size Lumber Yard	1/1/2007	12/31/2009	Member First Name 194	Member Last Name 194	Member Middle Name 194	18	2/11/1992	Saint Paul	Ramsey	MN	55117	F	S
+429358	Clothing Store (Women)	1/1/2007	12/31/2009	Member First Name 195	Member Last Name 195	Member Middle Name 195	18	8/25/1988	Saint Paul	Ramsey	MN	55126	F	S
+430557	Large Retail Store (2)	1/1/2007	12/31/2009	Member First Name 196	Member Last Name 196	Member Middle Name 196	18	1/24/1960	Elk River	Sherburne	MN	55330	F	M
+432396	Large Bank	1/1/2007	12/31/2009	Member First Name 197	Member Last Name 197	Member Middle Name 197	19	5/28/2006	Zimmerman	Sherburne	MN	55398	F	M
+432933	Large Bank	1/1/2007	12/31/2009	Member First Name 198	Member Last Name 198	Member Middle Name 198	18	3/3/1984	Saint Cloud	Stearns	MN	56301	M	S
+434119	Large Bank	1/1/2007	12/31/2009	Member First Name 199	Member Last Name 199	Member Middle Name 199	18	9/30/1977	Anoka	Anoka	MN	55303	F	S
+434497	Large Packaged Foods	1/1/2007	12/31/2009	Member First Name 200	Member Last Name 200	Member Middle Name 200	18	10/12/1989	Bethel	Anoka	MN	55005	F	M
+435201	Pizza Chain (1)	1/1/2007	12/31/2009	Member First Name 201	Member Last Name 201	Member Middle Name 201	18	5/14/1962	Circle Pines	Anoka	MN	55014	F	M
+435726	Large Packaged Foods	1/1/2007	12/31/2009	Member First Name 202	Member Last Name 202	Member Middle Name 202	18	3/18/1984	Center City	Chisago	MN	55012	F	M
+436718	Midwest Windows MFG	1/1/2007	12/31/2009	Member First Name 203	Member Last Name 203	Member Middle Name 203	18	11/23/1955	Chisago City	Chisago	MN	55013	F	M
+438140	Mid-size Lumber Yard	1/1/2007	12/31/2009	Member First Name 204	Member Last Name 204	Member Middle Name 204	18	1/25/1966	Taylors Falls	Chisago	MN	55084	M	S
+440015	Clothing Store (Women)	1/1/2007	12/31/2009	Member First Name 205	Member Last Name 205	Member Middle Name 205	18	9/13/1967	Burnsville	Dakota	MN	55306	F	S
+442508	Large Retail Store (3)	1/1/2007	12/31/2009	Member First Name 206	Member Last Name 206	Member Middle Name 206	18	6/5/1962	Inver Grove Heights	Dakota	MN	55077	F	M
+442591	Large Bank	1/1/2007	12/31/2009	Member First Name 207	Member Last Name 207	Member Middle Name 207	18	1/19/1988	Lakeville	Dakota	MN	55044	F	M
+522489	Large Bank	1/1/2007	12/31/2009	Member First Name 208	Member Last Name 208	Member Middle Name 208	18	9/27/1976	Champlin	Hennepin	MN	55316	M	S
+522707	Large Bank	1/1/2007	12/31/2009	Member First Name 209	Member Last Name 209	Member Middle Name 209	18	8/14/1968	Eden Prairie	Hennepin	MN	55344	F	S
+523505	Large Packaged Foods	1/1/2007	12/31/2009	Member First Name 210	Member Last Name 210	Member Middle Name 210	18	2/9/1987	Hopkins	Hennepin	MN	55305	F	M
+532928	Pizza Chain (1)	1/1/2007	12/31/2009	Member First Name 211	Member Last Name 211	Member Middle Name 211	18	4/4/1985	Minneapolis	Hennepin	MN	55401	F	M
+576669	Large Packaged Foods	1/1/2007	12/31/2009	Member First Name 212	Member Last Name 212	Member Middle Name 212	18	5/27/1972	Minneapolis	Hennepin	MN	55414	F	M
+585574	Midwest Windows MFG	1/1/2007	12/31/2009	Member First Name 213	Member Last Name 213	Member Middle Name 213	18	3/25/1982	Minneapolis	Hennepin	MN	55415	F	M
+585775	Mid-size Lumber Yard	1/1/2007	12/31/2009	Member First Name 214	Member Last Name 214	Member Middle Name 214	18	7/17/1986	Minneapolis	Hennepin	MN	55435	M	S
+593953	Clothing Store (Men)	1/1/2007	12/31/2009	Member First Name 215	Member Last Name 215	Member Middle Name 215	18	3/12/1991	Saint Paul	Ramsey	MN	55101	F	S
+596232	Large Retail Store (1)	1/1/2007	12/31/2009	Member First Name 216	Member Last Name 216	Member Middle Name 216	19	4/28/2006	Saint Paul	Ramsey	MN	55117	F	M
+597409	Large Bank	1/1/2007	12/31/2009	Member First Name 217	Member Last Name 217	Member Middle Name 217	18	10/7/1986	Saint Paul	Ramsey	MN	55126	F	M
+597418	Large Bank	1/1/2007	12/31/2009	Member First Name 218	Member Last Name 218	Member Middle Name 218	18	12/16/1970	Elk River	Sherburne	MN	55330	F	S
+597488	Large Bank	1/1/2007	12/31/2009	Member First Name 219	Member Last Name 219	Member Middle Name 219	18	7/5/1941	Zimmerman	Sherburne	MN	55398	M	S
+597615	Large Packaged Foods	1/1/2007	12/31/2009	Member First Name 220	Member Last Name 220	Member Middle Name 220	18	10/17/1985	Saint Cloud	Stearns	MN	56301	M	M
+602011	Individual Plan	1/1/2007	12/31/2009	Member First Name 221	Member Last Name 221	Member Middle Name 221	18	2/25/1954	Stillwater	Washington	MN	55082	F	M
+602014	Large Retail Store (2)	1/1/2007	12/31/2009	Member First Name 222	Member Last Name 222	Member Middle Name 222	18	5/27/1972	Medford	Steele	MN	55049	F	M
+602017	Large Retail Store (3)	1/1/2007	12/31/2009	Member First Name 223	Member Last Name 223	Member Middle Name 223	18	3/25/1982	Pine City	Pine	MN	55063	F	M
+602020	Pizza Chain (2)	1/1/2007	12/31/2009	Member First Name 224	Member Last Name 224	Member Middle Name 224	18	7/17/1986	Chaska	Carver	MN	55318	M	S
+602023	Clothing Store (Men)	1/1/2007	12/31/2009	Member First Name 225	Member Last Name 225	Member Middle Name 225	18	3/12/1991	Buffalo	Wright	MN	55313	F	S
+602026	Local Bank	1/1/2007	12/31/2009	Member First Name 226	Member Last Name 226	Member Middle Name 226	19	4/28/2009	Faribault	Rice	MN	55021	F	M
+602029	Local Bank	1/1/2007	12/31/2009	Member First Name 227	Member Last Name 227	Member Middle Name 227	18	8/3/1978	Mankato	Blue Earth	MN	56001	F	M
+602032	Local Bank	1/1/2007	12/31/2009	Member First Name 228	Member Last Name 228	Member Middle Name 228	18	12/16/1970	Rochester	Olmsted	MN	55901	F	S
+602035	Local Bank	1/1/2007	12/31/2009	Member First Name 229	Member Last Name 229	Member Middle Name 229	18	7/24/1953	Red Wing	Goodhue	MN	55066	M	S
+602038	Indiviidual Plan	1/1/2007	12/31/2009	Member First Name 230	Member Last Name 230	Member Middle Name 230	18	10/17/1985	Princeton	Mille Lacs	MN	55371	M	M
+602041	Individual Plan	1/1/2007	12/31/2009	Member First Name 231	Member Last Name 231	Member Middle Name 231	18	2/25/1954	Stillwater	Washington	MN	55082	F	M
+602044	Large Retail Store (2)	1/1/2007	12/31/2009	Member First Name 232	Member Last Name 232	Member Middle Name 232	18	5/27/1972	Medford	Steele	MN	55049	F	M
+602047	Large Retail Store (3)	1/1/2007	12/31/2009	Member First Name 233	Member Last Name 233	Member Middle Name 233	18	3/25/1982	Pine City	Pine	MN	55063	F	M
+602050	Pizza Chain (2)	1/1/2007	12/31/2009	Member First Name 234	Member Last Name 234	Member Middle Name 234	18	7/17/1986	Chaska	Carver	MN	55318	M	S
+602053	Clothing Store (Men)	1/1/2007	12/31/2009	Member First Name 235	Member Last Name 235	Member Middle Name 235	18	3/12/1991	Buffalo	Wright	MN	55313	F	S
+602056	Local Bank	1/1/2007	12/31/2009	Member First Name 236	Member Last Name 236	Member Middle Name 236	19	4/28/2009	Faribault	Rice	MN	55021	F	M
+602059	Local Bank	1/1/2007	12/31/2009	Member First Name 237	Member Last Name 237	Member Middle Name 237	18	8/3/1978	Mankato	Blue Earth	MN	56001	F	M
+602062	Local Bank	1/1/2007	12/31/2009	Member First Name 238	Member Last Name 238	Member Middle Name 238	18	12/16/1970	Rochester	Olmsted	MN	55901	F	S
+602065	Local Bank	1/1/2007	12/31/2009	Member First Name 239	Member Last Name 239	Member Middle Name 239	18	7/24/1953	Red Wing	Goodhue	MN	55066	M	S
+602068	Indiviidual Plan	1/1/2007	12/31/2009	Member First Name 240	Member Last Name 240	Member Middle Name 240	18	10/17/1985	Princeton	Mille Lacs	MN	55371	M	M
+602071	Individual Plan	1/1/2007	12/31/2009	Member First Name 241	Member Last Name 241	Member Middle Name 241	18	2/25/1954	Stillwater	Washington	MN	55082	F	M
+602074	Large Retail Store (2)	1/1/2007	12/31/2009	Member First Name 242	Member Last Name 242	Member Middle Name 242	18	5/27/1972	Medford	Steele	MN	55049	F	M
+602077	Large Retail Store (3)	1/1/2007	12/31/2009	Member First Name 243	Member Last Name 243	Member Middle Name 243	18	3/25/1982	Pine City	Pine	MN	55063	F	M
+602080	Pizza Chain (2)	1/1/2007	12/31/2009	Member First Name 244	Member Last Name 244	Member Middle Name 244	18	7/17/1986	Chaska	Carver	MN	55318	M	S
+602083	Clothing Store (Men)	1/1/2007	12/31/2009	Member First Name 245	Member Last Name 245	Member Middle Name 245	18	3/12/1991	Buffalo	Wright	MN	55313	F	S
+602086	Local Bank	1/1/2007	12/31/2009	Member First Name 246	Member Last Name 246	Member Middle Name 246	19	4/28/2008	Faribault	Rice	MN	55021	F	M
+602089	Local Bank	1/1/2007	12/31/2009	Member First Name 247	Member Last Name 247	Member Middle Name 247	18	8/3/1978	Mankato	Blue Earth	MN	56001	F	M
+602092	Local Bank	1/1/2007	12/31/2009	Member First Name 248	Member Last Name 248	Member Middle Name 248	18	12/16/1970	Rochester	Olmsted	MN	55901	F	S
+602095	Local Bank	1/1/2007	12/31/2009	Member First Name 249	Member Last Name 249	Member Middle Name 249	18	7/24/1953	Red Wing	Goodhue	MN	55066	M	S
+602098	Indiviidual Plan	1/1/2007	12/31/2009	Member First Name 250	Member Last Name 250	Member Middle Name 250	18	10/17/1985	Princeton	Mille Lacs	MN	55371	M	M
+602101	Individual Plan	1/1/2007	12/31/2009	Member First Name 251	Member Last Name 251	Member Middle Name 251	18	2/25/1954	Stillwater	Washington	MN	55082	F	M
+602104	Large Retail Store (2)	1/1/2007	12/31/2009	Member First Name 252	Member Last Name 252	Member Middle Name 252	18	5/27/1972	Medford	Steele	MN	55049	F	M
+602107	Large Retail Store (3)	1/1/2007	12/31/2009	Member First Name 253	Member Last Name 253	Member Middle Name 253	18	3/25/1982	Pine City	Pine	MN	55063	F	M
+602110	Pizza Chain (2)	1/1/2007	12/31/2009	Member First Name 254	Member Last Name 254	Member Middle Name 254	18	7/17/1986	Chaska	Carver	MN	55318	M	S
+602113	Clothing Store (Men)	1/1/2007	12/31/2009	Member First Name 255	Member Last Name 255	Member Middle Name 255	18	3/12/1991	Buffalo	Wright	MN	55313	F	S
+602116	Local Bank	1/1/2007	12/31/2009	Member First Name 256	Member Last Name 256	Member Middle Name 256	18	4/28/1990	Faribault	Rice	MN	55021	F	M
+602119	Local Bank	1/1/2007	12/31/2009	Member First Name 257	Member Last Name 257	Member Middle Name 257	18	8/3/1978	Mankato	Blue Earth	MN	56001	F	M
+602122	Local Bank	1/1/2007	12/31/2009	Member First Name 258	Member Last Name 258	Member Middle Name 258	18	12/16/1970	Rochester	Olmsted	MN	55901	F	S
+602125	Local Bank	1/1/2007	12/31/2009	Member First Name 259	Member Last Name 259	Member Middle Name 259	18	7/24/1953	Red Wing	Goodhue	MN	55066	M	S
+602128	Indiviidual Plan	1/1/2007	12/31/2009	Member First Name 260	Member Last Name 260	Member Middle Name 260	18	10/17/1985	Princeton	Mille Lacs	MN	55371	M	M
+602131	Individual Plan	1/1/2007	12/31/2009	Member First Name 261	Member Last Name 261	Member Middle Name 261	18	2/25/1954	Stillwater	Washington	MN	55082	F	M
+602134	Large Retail Store (2)	1/1/2007	12/31/2009	Member First Name 262	Member Last Name 262	Member Middle Name 262	18	5/27/1972	Medford	Steele	MN	55049	F	M
+602137	Large Retail Store (3)	1/1/2007	12/31/2009	Member First Name 263	Member Last Name 263	Member Middle Name 263	18	3/25/1982	Pine City	Pine	MN	55063	F	M
+602140	Pizza Chain (2)	1/1/2007	12/31/2009	Member First Name 264	Member Last Name 264	Member Middle Name 264	18	7/17/1986	Chaska	Carver	MN	55318	M	S
+602143	Clothing Store (Men)	1/1/2007	12/31/2009	Member First Name 265	Member Last Name 265	Member Middle Name 265	19	3/12/2000	Buffalo	Wright	MN	55313	F	S
+602146	Local Bank	1/1/2007	12/31/2009	Member First Name 266	Member Last Name 266	Member Middle Name 266	18	4/28/1990	Faribault	Rice	MN	55021	F	M
+602149	Local Bank	1/1/2007	12/31/2009	Member First Name 267	Member Last Name 267	Member Middle Name 267	18	8/3/1978	Mankato	Blue Earth	MN	56001	F	M
+602152	Local Bank	1/1/2007	12/31/2009	Member First Name 268	Member Last Name 268	Member Middle Name 268	18	12/16/1970	Rochester	Olmsted	MN	55901	F	S
+602155	Local Bank	1/1/2007	12/31/2009	Member First Name 269	Member Last Name 269	Member Middle Name 269	18	7/24/1953	Red Wing	Goodhue	MN	55066	M	S
+602158	Indiviidual Plan	1/1/2007	12/31/2009	Member First Name 270	Member Last Name 270	Member Middle Name 270	18	10/17/1985	Princeton	Mille Lacs	MN	55371	M	M
+602161	Individual Plan	1/1/2007	12/31/2009	Member First Name 271	Member Last Name 271	Member Middle Name 271	18	2/25/1954	Stillwater	Washington	MN	55082	F	M
+602164	Large Retail Store (2)	1/1/2007	12/31/2009	Member First Name 272	Member Last Name 272	Member Middle Name 272	18	5/27/1972	Medford	Steele	MN	55049	F	M
+602167	Large Retail Store (3)	1/1/2007	12/31/2009	Member First Name 273	Member Last Name 273	Member Middle Name 273	18	3/25/1982	Pine City	Pine	MN	55063	F	M
+602170	Pizza Chain (2)	1/1/2007	12/31/2009	Member First Name 274	Member Last Name 274	Member Middle Name 274	18	7/17/1986	Chaska	Carver	MN	55318	M	S
+602173	Clothing Store (Men)	1/1/2007	12/31/2009	Member First Name 275	Member Last Name 275	Member Middle Name 275	19	3/12/2001	Buffalo	Wright	MN	55313	F	S
+602176	Local Bank	1/1/2007	12/31/2009	Member First Name 276	Member Last Name 276	Member Middle Name 276	18	4/28/1990	Faribault	Rice	MN	55021	F	M
+602179	Local Bank	1/1/2007	12/31/2009	Member First Name 277	Member Last Name 277	Member Middle Name 277	18	8/3/1978	Mankato	Blue Earth	MN	56001	F	M
+602182	Local Bank	1/1/2007	12/31/2009	Member First Name 278	Member Last Name 278	Member Middle Name 278	18	12/16/1970	Rochester	Olmsted	MN	55901	F	S
+602185	Local Bank	1/1/2007	12/31/2009	Member First Name 279	Member Last Name 279	Member Middle Name 279	18	7/24/1953	Red Wing	Goodhue	MN	55066	M	S
+602188	Indiviidual Plan	1/1/2007	12/31/2009	Member First Name 280	Member Last Name 280	Member Middle Name 280	19	10/17/2015	Princeton	Mille Lacs	MN	55371	M	M
