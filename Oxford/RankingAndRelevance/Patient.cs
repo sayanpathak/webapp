@@ -6,7 +6,7 @@
         public string PatientLast { get; set; }
         public string PatientFirst { get; set; }
         public string PatientMiddle { get; set; }
-        public string PatientDOB { get; set; }
+        public string PatientDob { get; set; }
         public string PatientSex { get; set; }
         public string PatientMaritalStatus { get; set; }
         public string PatientAddressLine1 { get; set; }

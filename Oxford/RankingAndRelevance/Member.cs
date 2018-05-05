@@ -2,18 +2,20 @@
 {
     public class Member
     {
-        public string PatientRelCode { get; set; }
-        public string PatientLast { get; set; }
-        public string PatientFirst { get; set; }
-        public string PatientMiddle { get; set; }
-        public string PatientDOB { get; set; }
-        public string PatientSex { get; set; }
-        public string PatientMaritalStatus { get; set; }
-        public string PatientAddressLine1 { get; set; }
-        public string PatientAddressLine2 { get; set; }
-        public string PatientCity { get; set; }
-        public string PatientState { get; set; }
-        public string PatientZip { get; set; }
-        public string Keywords { get; set; }
+        public string MbrId { get; set; }
+        public string GroupName { get; set; }
+        public string MbrEffectiveDt { get; set; }
+        public string MbrTermDt { get; set; }
+        public string MbrFirstName { get; set; }
+        public string MbrLastName { get; set; }
+        public string MbrMiddleName { get; set; }
+        public string MbrRelation { get; set; }
+        public string MbrBirthDt { get; set; }
+        public string MbrCity { get; set; }
+        public string MbrCounty { get; set; }
+        public string MbrState { get; set; }
+        public string MbrZip { get; set; }
+        public string MbrGenderCd { get; set; }
+        public string MaritalStatusCd { get; set; }
     }
 }

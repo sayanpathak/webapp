@@ -2,18 +2,12 @@
 {
     public class PlaceOfService
     {
-        public string PatientRelCode { get; set; }
-        public string PatientLast { get; set; }
-        public string PatientFirst { get; set; }
-        public string PatientMiddle { get; set; }
-        public string PatientDOB { get; set; }
-        public string PatientSex { get; set; }
-        public string PatientMaritalStatus { get; set; }
-        public string PatientAddressLine1 { get; set; }
-        public string PatientAddressLine2 { get; set; }
-        public string PatientCity { get; set; }
-        public string PatientState { get; set; }
-        public string PatientZip { get; set; }
-        public string Keywords { get; set; }
+        public string PlaceOfServiceKey { get; set; }
+        public string ServicePlaceCd { get; set; }
+        public string ServicePlaceDs { get; set; }
+        public string PlaceOfServiceEffDt { get; set; }
+        public string PlaceOfServiceExpDt { get; set; }
+        public string DwProcessId { get; set; }
+        public string DwTimestamp { get; set; }
     }
 }
