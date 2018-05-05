@@ -3,3 +3,14 @@
 ################################################################################
 
 /Oxford/.vs/Oxford/v15/Server/sqlite3
+/Oxford/Oxford/obj
+/Oxford/RankingAndRelevance/bin/Debug
+/Oxford/.vs/Oxford/v15
+/Oxford/RankingAndRelevance/obj/Debug
+/Oxford/RankingAndRelevance/Files/cui2vec_pretrained.csv
+/Oxford/Oxford/bin/Debug/netcoreapp2.0
+/Oxford/WepApi/bin/Debug/netcoreapp2.0
+*.CopyComplete
+*.txt
+*.dll
+*.pdb
