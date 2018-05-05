@@ -1,9 +1,9 @@
 prv_idn	provider_npi	effective_dt	term_dt	facility_name	last_name	first_name	middle_name	suffix_name	provider_speciality_code	provider_speciality_desc	provider_city	provider_county	provider_state	provider_zip	DEA_number	State_license	tax_id	CreateTimestamp	ModifyTimestamp	Keywords	Price
-1	100002390	1/1/2010			Doctor Last Name 1	Doctor First Name 1	Doctor Middle Name 1	MD			Anoka	Anoka	MN	55303	XXX-BA7891145	XXXXA30361	XXXXX537085	userSysNbr	00:41.0	eye,surgery	678
-2	100052790	1/1/2010			Doctor Last Name 2	Doctor First Name 2	Doctor Middle Name 2	MD			Bethel	Anoka	MN	55005	XXX-BA7891146	XXXXG59365	XXXXX537504	userSysNbr	01:27.9	eye,surgery	678
-3	100064180	1/1/2010			Doctor Last Name 3	Doctor First Name 3	Doctor Middle Name 3	MD			Circle Pines	Anoka	MN	55014	XXX-BA7891147	XXXXA40940	XXXXX667874	userSysNbr	01:59.3	eye,surgery	678
-4	100073550	1/1/2010			Doctor Last Name 4	Doctor First Name 4	Doctor Middle Name 4	MD			Center City	Chisago	MN	55012	XXX-BA7891148	�XXXXA29800	XXXXX672132	userSysNbr	01:59.4	eye,surgery	678
-5	100079190	1/1/2010			Doctor Last Name 5	Doctor First Name 5	Doctor Middle Name 5	MD			Chisago City	Chisago	MN	55013	XXX-BA7891149	�XXXXA29801	XXXXX682533	userSysNbr	02:03.4	eye,surgery	678
+1	100002390	1/1/2010		VM healthcare	Chang	William		MD			Anoka	Anoka	MN	55303	XXX-BA7891145	XXXXA30361	XXXXX537085	userSysNbr	00:41.0	Small-incision phacoemulsification cataract surgery; minor in-office procedures including small eyelid anomalies and chalazion excisions and laser surgical procedures for secondary cataracts; glaucoma and diabetic complications; General ophthalmology including cataract surgery; glaucoma and diabetic care	24000
+2	100052790	1/1/2010		Swedish 	Park	Lisa		MD			Bethel	Anoka	MN	55005	XXX-BA7891146	XXXXG59365	XXXXX537504	userSysNbr	01:27.9	Ophthalmology; Vitreoretinal Surgery; Minimally Invasive Surgery; Medical and surgical diseases of the retina and vitreous; including age-related macular degeneration; diabetic retinopathy; retinal detachments; retinal dystrophies	13578
+3	100064180	1/1/2010		Retinal Associates	Graham	Bell		MD			Circle Pines	Anoka	MN	55014	XXX-BA7891147	XXXXA40940	XXXXX667874	userSysNbr	01:59.3	Ophthalmology; Vitreoretinal Surgery; Minimally Invasive Surgery; Medical and surgical diseases of the retina and vitreous; including age-related macular degeneration; diabetic retinopathy; retinal detachments; retinal dystrophies; Medical and surgical diseases of the retina and vitreous; including age-related macular degeneration; diabetic retinopathy and retinal detachments	8769
+4	100073550	1/1/2010		UW	Webbing	Marianna		MD			Center City	Chisago	MN	55012	XXX-BA7891148	ï¿½XXXXA29800	XXXXX672132	userSysNbr	01:59.4	Pediatric Ophthalmology; Ophthalmology; Cataract Surgery; Strabismus; Pediatric ophthalmology; adult strabismus (misaligned eyes); strabismus surgery and cataract surgery	18756
+5	100079190	1/1/2010		GPS Associate	Gatting	Bruce	W.	MD			Chisago City	Chisago	MN	55013	XXX-BA7891149	ï¿½XXXXA29801	XXXXX682533	userSysNbr	02:03.4	General ophthalmology; dry eye; medical glaucoma Secondary cataract laser surgery (Yag posterior capsulotomy) Minor eyelid lesion removal (excisional biopsies) Punctal plugs for dry eyes Glaucoma laser surgery (Selective laser trabeculoplasty; Argon laser trabeculoplasty; peripheral iridotomy) Electrolysis or forcep epilation for trichiasis (misdirected eyelashes) Examinations for diabetic eye disease and macular degeneration; General comprehensive ophthalmology; dry eye; medical glaucoma; glaucoma laser; after-cataract laser; rosacea; ocular rosacea	12567
 6	100089030	1/1/2010			Doctor Last Name 6	Doctor First Name 6	Doctor Middle Name 6	MD			Taylors Falls	Chisago	MN	55084	XXX-BA7891150	XXXXA12166	XXXXX744468	userSysNbr	02:05.9	eye,surgery	678
 7	100092080	1/1/2010			Doctor Last Name 7	Doctor First Name 7	Doctor Middle Name 7	MD			Burnsville	Dakota	MN	55306	XXX-BA7891151	XXXXB12934	XXXXX747058	userSysNbr	02:15.2	eye,surgery	678
 8	100102190	1/1/2010			Doctor Last Name 8	Doctor First Name 8	Doctor Middle Name 8	MD			Inver Grove Heights	Dakota	MN	55077	XXX-BA7891152	XXXXB3963	XXXXX806087	userSysNbr	01:08.8	eye,surgery	678
@@ -12,7 +12,7 @@ prv_idn	provider_npi	effective_dt	term_dt	facility_name	last_name	first_name	mid
 11	100132730	1/1/2010			Doctor Last Name 11	Doctor First Name 11	Doctor Middle Name 11	MD			Eden Prairie	Hennepin	MN	55344	XXX-BA7891155	XXXXA16219	XXXXX873856	userSysNbr	01:59.5	eye,surgery	678
 12	100133100	1/1/2010			Doctor Last Name 12	Doctor First Name 12	Doctor Middle Name 12	MD			Hopkins	Hennepin	MN	55305	XXX-BA7891156	XXXXA16220	XXXXX910802	userSysNbr	02:01.5	eye,surgery	678
 13	100154540	1/1/2010			Doctor Last Name 13	Doctor First Name 13	Doctor Middle Name 13	MD			Minneapolis	Hennepin	MN	55401	XXX-BA7891157	XXXXA78358	XXXXX921742	userSysNbr	02:08.9	eye,surgery	678
-14	100162870	1/1/2010			Doctor Last Name 14	Doctor First Name 14	Doctor Middle Name 14	MD			Minneapolis	Hennepin	MN	55414	XXX-BA7891158	�XXXXA44847	XXXXX924530	userSysNbr	02:12.1	eye,surgery	678
+14	100162870	1/1/2010			Doctor Last Name 14	Doctor First Name 14	Doctor Middle Name 14	MD			Minneapolis	Hennepin	MN	55414	XXX-BA7891158	ï¿½XXXXA44847	XXXXX924530	userSysNbr	02:12.1	eye,surgery	678
 15	100164000	1/1/2010			Doctor Last Name 15	Doctor First Name 15	Doctor Middle Name 15	MD			Minneapolis	Hennepin	MN	55415	XXX-BA7891159	XXXXA44694	XXXXX940109	userSysNbr	01:07.7	eye,surgery	678
 16	100169810	1/1/2010			Doctor Last Name 16	Doctor First Name 16	Doctor Middle Name 16	MD			Minneapolis	Hennepin	MN	55435	XXX-BA7891160	XXXXA45224	XXXXX945477	userSysNbr	01:42.7	eye,surgery	678
 17	100186930	1/1/2010			Doctor Last Name 17	Doctor First Name 17	Doctor Middle Name 17	MD			Saint Paul	Ramsey	MN	55101	XXX-BA7891161	XXXXA10747	XXXXX954367	userSysNbr	01:59.5	eye,surgery	678
@@ -24,8 +24,8 @@ prv_idn	provider_npi	effective_dt	term_dt	facility_name	last_name	first_name	mid
 23	100264230	1/1/2010			Doctor Last Name 23	Doctor First Name 23	Doctor Middle Name 23	MD			Anoka	Anoka	MN	55303	XXX-BA7891145	XXXXA30361	XXXXX537085	userSysNbr	01:49.5	eye,surgery	678
 24	100264300	1/1/2010			Doctor Last Name 24	Doctor First Name 24	Doctor Middle Name 24	MD			Bethel	Anoka	MN	55005	XXX-BA7891146	XXXXG59365	XXXXX537504	userSysNbr	01:59.6	eye,surgery	678
 25	100268310	1/1/2010			Doctor Last Name 25	Doctor First Name 25	Doctor Middle Name 25	MD			Circle Pines	Anoka	MN	55014	XXX-BA7891147	XXXXA40940	XXXXX667874	userSysNbr	01:59.7	eye,surgery	678
-26	100268480	1/1/2010			Doctor Last Name 26	Doctor First Name 26	Doctor Middle Name 26	MD			Center City	Chisago	MN	55012	XXX-BA7891148	�XXXXA29800	XXXXX672132	userSysNbr	02:01.6	eye,surgery	678
-27	100268630	1/1/2010			Doctor Last Name 27	Doctor First Name 27	Doctor Middle Name 27	MD			Chisago City	Chisago	MN	55013	XXX-BA7891149	�XXXXA29801	XXXXX682533	userSysNbr	02:13.1	eye,surgery	678
+26	100268480	1/1/2010			Doctor Last Name 26	Doctor First Name 26	Doctor Middle Name 26	MD			Center City	Chisago	MN	55012	XXX-BA7891148	ï¿½XXXXA29800	XXXXX672132	userSysNbr	02:01.6	eye,surgery	678
+27	100268630	1/1/2010			Doctor Last Name 27	Doctor First Name 27	Doctor Middle Name 27	MD			Chisago City	Chisago	MN	55013	XXX-BA7891149	ï¿½XXXXA29801	XXXXX682533	userSysNbr	02:13.1	eye,surgery	678
 28	100268950	1/1/2010			Doctor Last Name 28	Doctor First Name 28	Doctor Middle Name 28	MD			Taylors Falls	Chisago	MN	55084	XXX-BA7891150	XXXXA12166	XXXXX744468	userSysNbr	02:19.4	eye,surgery	678
 29	100269800	1/1/2010			Doctor Last Name 29	Doctor First Name 29	Doctor Middle Name 29	MD			Burnsville	Dakota	MN	55306	XXX-BA7891151	XXXXB12934	XXXXX747058	userSysNbr	01:19.8	eye,surgery	678
 30	100269970	1/1/2010			Doctor Last Name 30	Doctor First Name 30	Doctor Middle Name 30	MD			Inver Grove Heights	Dakota	MN	55077	XXX-BA7891152	XXXXB3963	XXXXX806087	userSysNbr	01:48.0	eye,surgery	678
@@ -34,7 +34,7 @@ prv_idn	provider_npi	effective_dt	term_dt	facility_name	last_name	first_name	mid
 33	100272620	1/1/2010			Doctor Last Name 33	Doctor First Name 33	Doctor Middle Name 33	MD			Eden Prairie	Hennepin	MN	55344	XXX-BA7891155	XXXXA16219	XXXXX873856	userSysNbr	02:01.7	eye,surgery	678
 34	100272810	1/1/2010			Doctor Last Name 34	Doctor First Name 34	Doctor Middle Name 34	MD			Hopkins	Hennepin	MN	55305	XXX-BA7891156	XXXXA16220	XXXXX910802	userSysNbr	02:13.2	eye,surgery	678
 35	100272920	1/1/2010			Doctor Last Name 35	Doctor First Name 35	Doctor Middle Name 35	MD			Minneapolis	Hennepin	MN	55401	XXX-BA7891157	XXXXA78358	XXXXX921742	userSysNbr	02:19.4	eye,surgery	678
-36	100282320	1/1/2010			Doctor Last Name 36	Doctor First Name 36	Doctor Middle Name 36	MD			Minneapolis	Hennepin	MN	55414	XXX-BA7891158	�XXXXA44847	XXXXX924530	userSysNbr	01:03.3	eye,surgery	678
+36	100282320	1/1/2010			Doctor Last Name 36	Doctor First Name 36	Doctor Middle Name 36	MD			Minneapolis	Hennepin	MN	55414	XXX-BA7891158	ï¿½XXXXA44847	XXXXX924530	userSysNbr	01:03.3	eye,surgery	678
 37	100288340	1/1/2010			Doctor Last Name 37	Doctor First Name 37	Doctor Middle Name 37	MD			Minneapolis	Hennepin	MN	55415	XXX-BA7891159	XXXXA44694	XXXXX940109	userSysNbr	01:39.3	eye,surgery	678
 38	100298240	1/1/2010			Doctor Last Name 38	Doctor First Name 38	Doctor Middle Name 38	MD			Minneapolis	Hennepin	MN	55435	XXX-BA7891160	XXXXA45224	XXXXX945477	userSysNbr	01:59.8	eye,surgery	678
 39	100318880	1/1/2010			Doctor Last Name 39	Doctor First Name 39	Doctor Middle Name 39	MD			Saint Paul	Ramsey	MN	55101	XXX-BA7891161	XXXXA10747	XXXXX954367	userSysNbr	01:59.8	eye,surgery	678
@@ -46,8 +46,8 @@ prv_idn	provider_npi	effective_dt	term_dt	facility_name	last_name	first_name	mid
 45	100346610	1/1/2010			Doctor Last Name 45	Doctor First Name 45	Doctor Middle Name 45	MD			Anoka	Anoka	MN	55303	XXX-BA7891145	XXXXA30361	XXXXX537085	userSysNbr	01:27.7	eye,surgery	678
 46	100348680	1/1/2010			Doctor Last Name 46	Doctor First Name 46	Doctor Middle Name 46	MD			Bethel	Anoka	MN	55005	XXX-BA7891146	XXXXG59365	XXXXX537504	userSysNbr	01:27.7	eye,surgery	678
 47	100358080	1/1/2010			Doctor Last Name 47	Doctor First Name 47	Doctor Middle Name 47	MD			Circle Pines	Anoka	MN	55014	XXX-BA7891147	XXXXA40940	XXXXX667874	userSysNbr	02:00.0	eye,surgery	678
-48	100366040	1/1/2010			Doctor Last Name 48	Doctor First Name 48	Doctor Middle Name 48	MD			Center City	Chisago	MN	55012	XXX-BA7891148	�XXXXA29800	XXXXX672132	userSysNbr	02:00.1	eye,surgery	678
-49	100369110	1/1/2010			Doctor Last Name 49	Doctor First Name 49	Doctor Middle Name 49	MD			Chisago City	Chisago	MN	55013	XXX-BA7891149	�XXXXA29801	XXXXX682533	userSysNbr	02:02.0	eye,surgery	678
+48	100366040	1/1/2010			Doctor Last Name 48	Doctor First Name 48	Doctor Middle Name 48	MD			Center City	Chisago	MN	55012	XXX-BA7891148	ï¿½XXXXA29800	XXXXX672132	userSysNbr	02:00.1	eye,surgery	678
+49	100369110	1/1/2010			Doctor Last Name 49	Doctor First Name 49	Doctor Middle Name 49	MD			Chisago City	Chisago	MN	55013	XXX-BA7891149	ï¿½XXXXA29801	XXXXX682533	userSysNbr	02:02.0	eye,surgery	678
 50	100381670	1/1/2010			Doctor Last Name 50	Doctor First Name 50	Doctor Middle Name 50	MD			Taylors Falls	Chisago	MN	55084	XXX-BA7891150	XXXXA12166	XXXXX744468	userSysNbr	02:13.6	eye,surgery	678
 51	100381870	1/1/2010			Doctor Last Name 51	Doctor First Name 51	Doctor Middle Name 51	MD			Burnsville	Dakota	MN	55306	XXX-BA7891151	XXXXB12934	XXXXX747058	userSysNbr	02:19.4	eye,surgery	678
 52	100383500	1/1/2010			Doctor Last Name 52	Doctor First Name 52	Doctor Middle Name 52	MD			Inver Grove Heights	Dakota	MN	55077	XXX-BA7891152	XXXXB3963	XXXXX806087	userSysNbr	02:19.4	eye,surgery	678
@@ -56,7 +56,7 @@ prv_idn	provider_npi	effective_dt	term_dt	facility_name	last_name	first_name	mid
 55	100388040	1/1/2010			Doctor Last Name 55	Doctor First Name 55	Doctor Middle Name 55	MD			Eden Prairie	Hennepin	MN	55344	XXX-BA7891155	XXXXA16219	XXXXX873856	userSysNbr	01:02.8	eye,surgery	678
 56	100389750	1/1/2010			Doctor Last Name 56	Doctor First Name 56	Doctor Middle Name 56	MD			Hopkins	Hennepin	MN	55305	XXX-BA7891156	XXXXA16220	XXXXX910802	userSysNbr	01:38.3	eye,surgery	678
 57	100434420	1/1/2010			Doctor Last Name 57	Doctor First Name 57	Doctor Middle Name 57	MD			Minneapolis	Hennepin	MN	55401	XXX-BA7891157	XXXXA78358	XXXXX921742	userSysNbr	01:38.3	eye,surgery	678
-58	100437410	1/1/2010			Doctor Last Name 58	Doctor First Name 58	Doctor Middle Name 58	MD			Minneapolis	Hennepin	MN	55414	XXX-BA7891158	�XXXXA44847	XXXXX924530	userSysNbr	01:38.3	eye,surgery	678
+58	100437410	1/1/2010			Doctor Last Name 58	Doctor First Name 58	Doctor Middle Name 58	MD			Minneapolis	Hennepin	MN	55414	XXX-BA7891158	ï¿½XXXXA44847	XXXXX924530	userSysNbr	01:38.3	eye,surgery	678
 59	100468680	1/1/2010			Doctor Last Name 59	Doctor First Name 59	Doctor Middle Name 59	MD			Minneapolis	Hennepin	MN	55415	XXX-BA7891159	XXXXA44694	XXXXX940109	userSysNbr	02:00.1	eye,surgery	678
 60	100475180	1/1/2010			Doctor Last Name 60	Doctor First Name 60	Doctor Middle Name 60	MD			Minneapolis	Hennepin	MN	55435	XXX-BA7891160	XXXXA45224	XXXXX945477	userSysNbr	02:00.2	eye,surgery	678
 61	100475780	1/1/2010			Doctor Last Name 61	Doctor First Name 61	Doctor Middle Name 61	MD			Saint Paul	Ramsey	MN	55101	XXX-BA7891161	XXXXA10747	XXXXX954367	userSysNbr	02:02.1	eye,surgery	678
@@ -68,8 +68,8 @@ prv_idn	provider_npi	effective_dt	term_dt	facility_name	last_name	first_name	mid
 67	200045990	1/1/2010			Doctor Last Name 67	Doctor First Name 67	Doctor Middle Name 67	MD			Anoka	Anoka	MN	55303	XXX-BA7891145	XXXXA30361	XXXXX537085	userSysNbr	01:15.7	eye,surgery	678
 68	200052590	1/1/2010			Doctor Last Name 68	Doctor First Name 68	Doctor Middle Name 68	MD			Bethel	Anoka	MN	55005	XXX-BA7891146	XXXXG59365	XXXXX537504	userSysNbr	01:16.2	eye,surgery	678
 69	200062550	1/1/2010			Doctor Last Name 69	Doctor First Name 69	Doctor Middle Name 69	MD			Circle Pines	Anoka	MN	55014	XXX-BA7891147	XXXXA40940	XXXXX667874	userSysNbr	01:45.3	eye,surgery	678
-70	200073210	1/1/2010			Doctor Last Name 70	Doctor First Name 70	Doctor Middle Name 70	MD			Center City	Chisago	MN	55012	XXX-BA7891148	�XXXXA29800	XXXXX672132	userSysNbr	01:45.3	eye,surgery	678
-71	200083680	1/1/2010			Doctor Last Name 71	Doctor First Name 71	Doctor Middle Name 71	MD			Chisago City	Chisago	MN	55013	XXX-BA7891149	�XXXXA29801	XXXXX682533	userSysNbr	01:45.3	eye,surgery	678
+70	200073210	1/1/2010			Doctor Last Name 70	Doctor First Name 70	Doctor Middle Name 70	MD			Center City	Chisago	MN	55012	XXX-BA7891148	ï¿½XXXXA29800	XXXXX672132	userSysNbr	01:45.3	eye,surgery	678
+71	200083680	1/1/2010			Doctor Last Name 71	Doctor First Name 71	Doctor Middle Name 71	MD			Chisago City	Chisago	MN	55013	XXX-BA7891149	ï¿½XXXXA29801	XXXXX682533	userSysNbr	01:45.3	eye,surgery	678
 72	200093050	1/1/2010			Doctor Last Name 72	Doctor First Name 72	Doctor Middle Name 72	MD			Taylors Falls	Chisago	MN	55084	XXX-BA7891150	XXXXA12166	XXXXX744468	userSysNbr	02:00.2	eye,surgery	678
 73	200094590	1/1/2010			Doctor Last Name 73	Doctor First Name 73	Doctor Middle Name 73	MD			Burnsville	Dakota	MN	55306	XXX-BA7891151	XXXXB12934	XXXXX747058	userSysNbr	02:00.2	eye,surgery	678
 74	200107010	1/1/2010			Doctor Last Name 74	Doctor First Name 74	Doctor Middle Name 74	MD			Inver Grove Heights	Dakota	MN	55077	XXX-BA7891152	XXXXB3963	XXXXX806087	userSysNbr	02:02.7	eye,surgery	678
@@ -78,7 +78,7 @@ prv_idn	provider_npi	effective_dt	term_dt	facility_name	last_name	first_name	mid
 77	200118860	1/1/2010			Doctor Last Name 77	Doctor First Name 77	Doctor Middle Name 77	MD			Eden Prairie	Hennepin	MN	55344	XXX-BA7891155	XXXXA16219	XXXXX873856	userSysNbr	02:09.1	eye,surgery	678
 78	200118910	1/1/2010			Doctor Last Name 78	Doctor First Name 78	Doctor Middle Name 78	MD			Hopkins	Hennepin	MN	55305	XXX-BA7891156	XXXXA16220	XXXXX910802	userSysNbr	02:14.7	eye,surgery	678
 79	200120720	1/1/2010			Doctor Last Name 79	Doctor First Name 79	Doctor Middle Name 79	MD			Minneapolis	Hennepin	MN	55401	XXX-BA7891157	XXXXA78358	XXXXX921742	userSysNbr	01:17.6	eye,surgery	678
-80	200145120	1/1/2010			Doctor Last Name 80	Doctor First Name 80	Doctor Middle Name 80	MD			Minneapolis	Hennepin	MN	55414	XXX-BA7891158	�XXXXA44847	XXXXX924530	userSysNbr	01:46.3	eye,surgery	678
+80	200145120	1/1/2010			Doctor Last Name 80	Doctor First Name 80	Doctor Middle Name 80	MD			Minneapolis	Hennepin	MN	55414	XXX-BA7891158	ï¿½XXXXA44847	XXXXX924530	userSysNbr	01:46.3	eye,surgery	678
 81	200145500	1/1/2010			Doctor Last Name 81	Doctor First Name 81	Doctor Middle Name 81	MD			Minneapolis	Hennepin	MN	55415	XXX-BA7891159	XXXXA44694	XXXXX940109	userSysNbr	02:19.4	eye,surgery	678
 82	200149970	1/1/2010			Doctor Last Name 82	Doctor First Name 82	Doctor Middle Name 82	MD			Minneapolis	Hennepin	MN	55435	XXX-BA7891160	XXXXA45224	XXXXX945477	userSysNbr	01:20.1	eye,surgery	678
 83	200163990	1/1/2010			Doctor Last Name 83	Doctor First Name 83	Doctor Middle Name 83	MD			Saint Paul	Ramsey	MN	55101	XXX-BA7891161	XXXXA10747	XXXXX954367	userSysNbr	01:48.1	eye,surgery	678
@@ -90,8 +90,8 @@ prv_idn	provider_npi	effective_dt	term_dt	facility_name	last_name	first_name	mid
 89	200207730	1/1/2010			Doctor Last Name 89	Doctor First Name 89	Doctor Middle Name 89	MD			Anoka	Anoka	MN	55303	XXX-BA7891145	XXXXA30361	XXXXX537085	userSysNbr	01:41.8	eye,surgery	678
 90	200208320	1/1/2010			Doctor Last Name 90	Doctor First Name 90	Doctor Middle Name 90	MD			Bethel	Anoka	MN	55005	XXX-BA7891146	XXXXG59365	XXXXX537504	userSysNbr	02:19.4	eye,surgery	678
 91	200210060	1/1/2010			Doctor Last Name 91	Doctor First Name 91	Doctor Middle Name 91	MD			Circle Pines	Anoka	MN	55014	XXX-BA7891147	XXXXA40940	XXXXX667874	userSysNbr	01:03.9	eye,surgery	678
-92	200220150	1/1/2010			Doctor Last Name 92	Doctor First Name 92	Doctor Middle Name 92	MD			Center City	Chisago	MN	55012	XXX-BA7891148	�XXXXA29800	XXXXX672132	userSysNbr	01:05.3	eye,surgery	678
-93	200233430	1/1/2010			Doctor Last Name 93	Doctor First Name 93	Doctor Middle Name 93	MD			Chisago City	Chisago	MN	55013	XXX-BA7891149	�XXXXA29801	XXXXX682533	userSysNbr	01:40.2	eye,surgery	678
+92	200220150	1/1/2010			Doctor Last Name 92	Doctor First Name 92	Doctor Middle Name 92	MD			Center City	Chisago	MN	55012	XXX-BA7891148	ï¿½XXXXA29800	XXXXX672132	userSysNbr	01:05.3	eye,surgery	678
+93	200233430	1/1/2010			Doctor Last Name 93	Doctor First Name 93	Doctor Middle Name 93	MD			Chisago City	Chisago	MN	55013	XXX-BA7891149	ï¿½XXXXA29801	XXXXX682533	userSysNbr	01:40.2	eye,surgery	678
 94	200239810	1/1/2010			Doctor Last Name 94	Doctor First Name 94	Doctor Middle Name 94	MD			Taylors Falls	Chisago	MN	55084	XXX-BA7891150	XXXXA12166	XXXXX744468	userSysNbr	01:40.9	eye,surgery	678
 95	200242520	1/1/2010			Doctor Last Name 95	Doctor First Name 95	Doctor Middle Name 95	MD			Burnsville	Dakota	MN	55306	XXX-BA7891151	XXXXB12934	XXXXX747058	userSysNbr	02:17.9	eye,surgery	678
 96	200243120	1/1/2010			Doctor Last Name 96	Doctor First Name 96	Doctor Middle Name 96	MD			Inver Grove Heights	Dakota	MN	55077	XXX-BA7891152	XXXXB3963	XXXXX806087	userSysNbr	02:17.9	eye,surgery	678
@@ -100,7 +100,7 @@ prv_idn	provider_npi	effective_dt	term_dt	facility_name	last_name	first_name	mid
 99	200268960	1/1/2010			Doctor Last Name 99	Doctor First Name 99	Doctor Middle Name 99	MD			Eden Prairie	Hennepin	MN	55344	XXX-BA7891155	XXXXA16219	XXXXX873856	userSysNbr	02:19.0	eye,surgery	678
 100	200289950	1/1/2010			Doctor Last Name 100	Doctor First Name 100	Doctor Middle Name 100	MD			Hopkins	Hennepin	MN	55305	XXX-BA7891156	XXXXA16220	XXXXX910802	userSysNbr	01:03.2	eye,surgery	678
 101	200296430	1/1/2010			Doctor Last Name 101	Doctor First Name 101	Doctor Middle Name 101	MD			Minneapolis	Hennepin	MN	55401	XXX-BA7891157	XXXXA78358	XXXXX921742	userSysNbr	01:39.3	eye,surgery	678
-102	200321210	1/1/2010			Doctor Last Name 102	Doctor First Name 102	Doctor Middle Name 102	MD			Minneapolis	Hennepin	MN	55414	XXX-BA7891158	�XXXXA44847	XXXXX924530	userSysNbr	02:17.1	eye,surgery	678
+102	200321210	1/1/2010			Doctor Last Name 102	Doctor First Name 102	Doctor Middle Name 102	MD			Minneapolis	Hennepin	MN	55414	XXX-BA7891158	ï¿½XXXXA44847	XXXXX924530	userSysNbr	02:17.1	eye,surgery	678
 103	200321490	1/1/2010			Doctor Last Name 103	Doctor First Name 103	Doctor Middle Name 103	MD			Minneapolis	Hennepin	MN	55415	XXX-BA7891159	XXXXA44694	XXXXX940109	userSysNbr	00:31.7	eye,surgery	678
 104	200328420	1/1/2010			Doctor Last Name 104	Doctor First Name 104	Doctor Middle Name 104	MD			Minneapolis	Hennepin	MN	55435	XXX-BA7891160	XXXXA45224	XXXXX945477	userSysNbr	00:31.8	eye,surgery	678
 105	200330610	1/1/2010			Doctor Last Name 105	Doctor First Name 105	Doctor Middle Name 105	MD			Saint Paul	Ramsey	MN	55101	XXX-BA7891161	XXXXA10747	XXXXX954367	userSysNbr	00:37.7	eye,surgery	678
@@ -112,8 +112,8 @@ prv_idn	provider_npi	effective_dt	term_dt	facility_name	last_name	first_name	mid
 111	200409080	1/1/2010			Doctor Last Name 111	Doctor First Name 111	Doctor Middle Name 111	MD			Anoka	Anoka	MN	55303	XXX-BA7891145	XXXXA30361	XXXXX537085	userSysNbr	02:18.9	eye,surgery	678
 112	200414420	1/1/2010			Doctor Last Name 112	Doctor First Name 112	Doctor Middle Name 112	MD			Bethel	Anoka	MN	55005	XXX-BA7891146	XXXXG59365	XXXXX537504	userSysNbr	01:09.5	eye,surgery	678
 113	200436460	1/1/2010			Doctor Last Name 113	Doctor First Name 113	Doctor Middle Name 113	MD			Circle Pines	Anoka	MN	55014	XXX-BA7891147	XXXXA40940	XXXXX667874	userSysNbr	01:43.4	eye,surgery	678
-114	200444330	1/1/2010			Doctor Last Name 114	Doctor First Name 114	Doctor Middle Name 114	MD			Center City	Chisago	MN	55012	XXX-BA7891148	�XXXXA29800	XXXXX672132	userSysNbr	02:01.8	eye,surgery	678
-115	200446080	1/1/2010			Doctor Last Name 115	Doctor First Name 115	Doctor Middle Name 115	MD			Chisago City	Chisago	MN	55013	XXX-BA7891149	�XXXXA29801	XXXXX682533	userSysNbr	00:56.9	eye,surgery	678
+114	200444330	1/1/2010			Doctor Last Name 114	Doctor First Name 114	Doctor Middle Name 114	MD			Center City	Chisago	MN	55012	XXX-BA7891148	ï¿½XXXXA29800	XXXXX672132	userSysNbr	02:01.8	eye,surgery	678
+115	200446080	1/1/2010			Doctor Last Name 115	Doctor First Name 115	Doctor Middle Name 115	MD			Chisago City	Chisago	MN	55013	XXX-BA7891149	ï¿½XXXXA29801	XXXXX682533	userSysNbr	00:56.9	eye,surgery	678
 116	200456380	1/1/2010			Doctor Last Name 116	Doctor First Name 116	Doctor Middle Name 116	MD			Taylors Falls	Chisago	MN	55084	XXX-BA7891150	XXXXA12166	XXXXX744468	userSysNbr	01:34.5	eye,surgery	678
 117	200462270	1/1/2010			Doctor Last Name 117	Doctor First Name 117	Doctor Middle Name 117	MD			Burnsville	Dakota	MN	55306	XXX-BA7891151	XXXXB12934	XXXXX747058	userSysNbr	02:19.4	eye,surgery	678
 118	200472760	1/1/2010			Doctor Last Name 118	Doctor First Name 118	Doctor Middle Name 118	MD			Inver Grove Heights	Dakota	MN	55077	XXX-BA7891152	XXXXB3963	XXXXX806087	userSysNbr	00:51.2	eye,surgery	678
@@ -122,7 +122,7 @@ prv_idn	provider_npi	effective_dt	term_dt	facility_name	last_name	first_name	mid
 121	200521550	1/1/2010			Doctor Last Name 121	Doctor First Name 121	Doctor Middle Name 121	MD			Eden Prairie	Hennepin	MN	55344	XXX-BA7891155	XXXXA16219	XXXXX873856	userSysNbr	02:17.0	eye,surgery	678
 122	200525110	1/1/2010			Doctor Last Name 122	Doctor First Name 122	Doctor Middle Name 122	MD			Hopkins	Hennepin	MN	55305	XXX-BA7891156	XXXXA16220	XXXXX910802	userSysNbr	01:09.0	eye,surgery	678
 123	200529750	1/1/2010			Doctor Last Name 123	Doctor First Name 123	Doctor Middle Name 123	MD			Minneapolis	Hennepin	MN	55401	XXX-BA7891157	XXXXA78358	XXXXX921742	userSysNbr	01:13.5	eye,surgery	678
-124	200532090	1/1/2010			Doctor Last Name 124	Doctor First Name 124	Doctor Middle Name 124	MD			Minneapolis	Hennepin	MN	55414	XXX-BA7891158	�XXXXA44847	XXXXX924530	userSysNbr	01:42.9	eye,surgery	678
+124	200532090	1/1/2010			Doctor Last Name 124	Doctor First Name 124	Doctor Middle Name 124	MD			Minneapolis	Hennepin	MN	55414	XXX-BA7891158	ï¿½XXXXA44847	XXXXX924530	userSysNbr	01:42.9	eye,surgery	678
 125	200806720	1/1/2010			Doctor Last Name 125	Doctor First Name 125	Doctor Middle Name 125	MD			Minneapolis	Hennepin	MN	55415	XXX-BA7891159	XXXXA44694	XXXXX940109	userSysNbr	01:45.2	eye,surgery	678
 126	200806960	1/1/2010			Doctor Last Name 126	Doctor First Name 126	Doctor Middle Name 126	MD			Minneapolis	Hennepin	MN	55435	XXX-BA7891160	XXXXA45224	XXXXX945477	userSysNbr	02:08.8	eye,surgery	678
 127	200816930	1/1/2010			Doctor Last Name 127	Doctor First Name 127	Doctor Middle Name 127	MD			Saint Paul	Ramsey	MN	55101	XXX-BA7891161	XXXXA10747	XXXXX954367	userSysNbr	02:15.6	eye,surgery	678
@@ -134,8 +134,8 @@ prv_idn	provider_npi	effective_dt	term_dt	facility_name	last_name	first_name	mid
 133	200853420	1/1/2010			Doctor Last Name 133	Doctor First Name 133	Doctor Middle Name 133	MD			Anoka	Anoka	MN	55303	XXX-BA7891145	XXXXA30361	XXXXX537085	userSysNbr	01:31.5	eye,surgery	678
 134	200857970	1/1/2010			Doctor Last Name 134	Doctor First Name 134	Doctor Middle Name 134	MD			Bethel	Anoka	MN	55005	XXX-BA7891146	XXXXG59365	XXXXX537504	userSysNbr	01:45.3	eye,surgery	678
 135	200859520	1/1/2010			Doctor Last Name 135	Doctor First Name 135	Doctor Middle Name 135	MD			Circle Pines	Anoka	MN	55014	XXX-BA7891147	XXXXA40940	XXXXX667874	userSysNbr	02:07.0	eye,surgery	678
-136	200863210	1/1/2010			Doctor Last Name 136	Doctor First Name 136	Doctor Middle Name 136	MD			Center City	Chisago	MN	55012	XXX-BA7891148	�XXXXA29800	XXXXX672132	userSysNbr	02:07.0	eye,surgery	678
-137	200864150	1/1/2010			Doctor Last Name 137	Doctor First Name 137	Doctor Middle Name 137	MD			Chisago City	Chisago	MN	55013	XXX-BA7891149	�XXXXA29801	XXXXX682533	userSysNbr	02:08.1	eye,surgery	678
+136	200863210	1/1/2010			Doctor Last Name 136	Doctor First Name 136	Doctor Middle Name 136	MD			Center City	Chisago	MN	55012	XXX-BA7891148	ï¿½XXXXA29800	XXXXX672132	userSysNbr	02:07.0	eye,surgery	678
+137	200864150	1/1/2010			Doctor Last Name 137	Doctor First Name 137	Doctor Middle Name 137	MD			Chisago City	Chisago	MN	55013	XXX-BA7891149	ï¿½XXXXA29801	XXXXX682533	userSysNbr	02:08.1	eye,surgery	678
 138	200865750	1/1/2010			Doctor Last Name 138	Doctor First Name 138	Doctor Middle Name 138	MD			Taylors Falls	Chisago	MN	55084	XXX-BA7891150	XXXXA12166	XXXXX744468	userSysNbr	02:15.7	eye,surgery	678
 139	200867910	1/1/2010			Doctor Last Name 139	Doctor First Name 139	Doctor Middle Name 139	MD			Burnsville	Dakota	MN	55306	XXX-BA7891151	XXXXB12934	XXXXX747058	userSysNbr	01:03.7	eye,surgery	678
 140	200872990	1/1/2010			Doctor Last Name 140	Doctor First Name 140	Doctor Middle Name 140	MD			Inver Grove Heights	Dakota	MN	55077	XXX-BA7891152	XXXXB3963	XXXXX806087	userSysNbr	01:39.5	eye,surgery	678
@@ -144,7 +144,7 @@ prv_idn	provider_npi	effective_dt	term_dt	facility_name	last_name	first_name	mid
 143	200887380	1/1/2010			Doctor Last Name 143	Doctor First Name 143	Doctor Middle Name 143	MD			Eden Prairie	Hennepin	MN	55344	XXX-BA7891155	XXXXA16219	XXXXX873856	userSysNbr	01:11.0	eye,surgery	678
 144	200899550	1/1/2010			Doctor Last Name 144	Doctor First Name 144	Doctor Middle Name 144	MD			Hopkins	Hennepin	MN	55305	XXX-BA7891156	XXXXA16220	XXXXX910802	userSysNbr	01:43.8	eye,surgery	678
 145	200904270	1/1/2010			Doctor Last Name 145	Doctor First Name 145	Doctor Middle Name 145	MD			Minneapolis	Hennepin	MN	55401	XXX-BA7891157	XXXXA78358	XXXXX921742	userSysNbr	02:15.8	eye,surgery	678
-146	200909000	1/1/2010			Doctor Last Name 146	Doctor First Name 146	Doctor Middle Name 146	MD			Minneapolis	Hennepin	MN	55414	XXX-BA7891158	�XXXXA44847	XXXXX924530	userSysNbr	02:19.4	eye,surgery	678
+146	200909000	1/1/2010			Doctor Last Name 146	Doctor First Name 146	Doctor Middle Name 146	MD			Minneapolis	Hennepin	MN	55414	XXX-BA7891158	ï¿½XXXXA44847	XXXXX924530	userSysNbr	02:19.4	eye,surgery	678
 147	200910810	1/1/2010			Doctor Last Name 147	Doctor First Name 147	Doctor Middle Name 147	MD			Minneapolis	Hennepin	MN	55415	XXX-BA7891159	XXXXA44694	XXXXX940109	userSysNbr	00:57.1	eye,surgery	678
 148	200931480	1/1/2010			Doctor Last Name 148	Doctor First Name 148	Doctor Middle Name 148	MD			Minneapolis	Hennepin	MN	55435	XXX-BA7891160	XXXXA45224	XXXXX945477	userSysNbr	01:35.0	eye,surgery	678
 149	200932710	1/1/2010			Doctor Last Name 149	Doctor First Name 149	Doctor Middle Name 149	MD			Saint Paul	Ramsey	MN	55101	XXX-BA7891161	XXXXA10747	XXXXX954367	userSysNbr	02:15.8	eye,surgery	678
@@ -156,8 +156,8 @@ prv_idn	provider_npi	effective_dt	term_dt	facility_name	last_name	first_name	mid
 155	200952230	1/1/2010			Doctor Last Name 155	Doctor First Name 155	Doctor Middle Name 155	MD			Anoka	Anoka	MN	55303	XXX-BA7891145	XXXXA30361	XXXXX537085	userSysNbr	01:02.3	eye,surgery	678
 156	200952510	1/1/2010			Doctor Last Name 156	Doctor First Name 156	Doctor Middle Name 156	MD			Bethel	Anoka	MN	55005	XXX-BA7891146	XXXXG59365	XXXXX537504	userSysNbr	01:38.2	eye,surgery	678
 157	200952660	1/1/2010			Doctor Last Name 157	Doctor First Name 157	Doctor Middle Name 157	MD			Circle Pines	Anoka	MN	55014	XXX-BA7891147	XXXXA40940	XXXXX667874	userSysNbr	02:16.0	eye,surgery	678
-158	200953840	1/1/2010			Doctor Last Name 158	Doctor First Name 158	Doctor Middle Name 158	MD			Center City	Chisago	MN	55012	XXX-BA7891148	�XXXXA29800	XXXXX672132	userSysNbr	02:19.4	eye,surgery	678
-159	200954240	1/1/2010			Doctor Last Name 159	Doctor First Name 159	Doctor Middle Name 159	MD			Chisago City	Chisago	MN	55013	XXX-BA7891149	�XXXXA29801	XXXXX682533	userSysNbr	00:57.2	eye,surgery	678
+158	200953840	1/1/2010			Doctor Last Name 158	Doctor First Name 158	Doctor Middle Name 158	MD			Center City	Chisago	MN	55012	XXX-BA7891148	ï¿½XXXXA29800	XXXXX672132	userSysNbr	02:19.4	eye,surgery	678
+159	200954240	1/1/2010			Doctor Last Name 159	Doctor First Name 159	Doctor Middle Name 159	MD			Chisago City	Chisago	MN	55013	XXX-BA7891149	ï¿½XXXXA29801	XXXXX682533	userSysNbr	00:57.2	eye,surgery	678
 160	200954410	1/1/2010			Doctor Last Name 160	Doctor First Name 160	Doctor Middle Name 160	MD			Taylors Falls	Chisago	MN	55084	XXX-BA7891150	XXXXA12166	XXXXX744468	userSysNbr	01:35.2	eye,surgery	678
 161	200954480	1/1/2010			Doctor Last Name 161	Doctor First Name 161	Doctor Middle Name 161	MD			Burnsville	Dakota	MN	55306	XXX-BA7891151	XXXXB12934	XXXXX747058	userSysNbr	02:16.1	eye,surgery	678
 162	200963680	1/1/2010			Doctor Last Name 162	Doctor First Name 162	Doctor Middle Name 162	MD			Inver Grove Heights	Dakota	MN	55077	XXX-BA7891152	XXXXB3963	XXXXX806087	userSysNbr	02:19.4	eye,surgery	678
